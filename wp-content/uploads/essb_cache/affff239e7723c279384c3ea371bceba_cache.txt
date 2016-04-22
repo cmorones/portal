@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM Concierto 3 de Primavera" />
+<meta property="og:description" content="OJUEM Conciertos de PrimaveraOrquesta Juvenil Universitaria Eduardo Mata de la UNAMConcierto 3 Gustavo Rivero Weber, director artístico; Santiago Piñeirúa, piano Sinfonía india de Chávez, Suite Tlalmanalco de A. de Elías, Concierto para piano no. 3 de Rachmaninov Sala Nezahualcóyotl 18:00 hor&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-3-de-primavera-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-04-21T12:53:30+00:00" />

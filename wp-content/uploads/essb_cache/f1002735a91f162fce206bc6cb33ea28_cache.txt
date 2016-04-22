@@ -1,0 +1,6 @@
+<meta property="og:title" content="Programa Coral Universitario" />
+<meta property="og:description" content="Programa Coral Universitario Coro de la Facultad de Contaduría y Administración, Coro de la Facultad de Ciencias y Coro Universitario Luis Merino Macías de la FES Iztacala Obras del Renacimiento, Bach, Mendelssohn y canciones tradicionales de México, Estados Unidos y Bolivia, entre otros Sala Ca&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/programa-coral-universitario-6/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-04-21T12:33:03+00:00" />
