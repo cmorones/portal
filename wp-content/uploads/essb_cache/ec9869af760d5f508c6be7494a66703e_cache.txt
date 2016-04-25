@@ -1,0 +1,6 @@
+<meta property="og:title" content="CONCIERTO INTERNACIONAL &#8211; Recital de piano con Charles Richard-Hamelin" />
+<meta property="og:description" content="  Miércoles 13 de abril / 20:30 horas Sala Nezahualcóyotl  La Dirección General de Música de la UNAM, organiza el Concierto Internacional con el pianista originario de Québec Charles Richard-Hamelin, el próximo miércoles 13 de abril en la Sala Nezahualcóyotl del Centro Cultural Universitar&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-internacional-recital-de-piano-con-charles-richard-hamelin/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-04-04T20:08:48+00:00" />
