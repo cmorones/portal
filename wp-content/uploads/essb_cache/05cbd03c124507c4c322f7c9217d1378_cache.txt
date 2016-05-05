@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Cris Lobo Band" />
+<meta property="og:description" content="Jazz, Tangos y Ritmos Latinoamericanos  Cris Lobo Band:Cris Lobo, guitarra; Kim López, guitarra; Paloma Ruiz, guitarra; Ernesto Vidaurri, batería; Luis Martínez, bajo Anfiteatro Simón Bolívar 12:00 horas $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/banda-de-cris-lobo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-04-21T12:57:33+00:00" />
+<meta property="article:modified_time" content="2016-04-28T16:31:13+00:00" />
+<meta property="og:updated_time" content="2016-04-28T16:31:13+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="Trío de Agustín Bernal" />
+<meta property="og:description" content="Jueves de JazzTrío de Agustín Bernal Centro Cultural Tlatelolco/Auditorio 19:00 horas $60 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/trio-de-agustin-bernal/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-04-28T15:12:53+00:00" />

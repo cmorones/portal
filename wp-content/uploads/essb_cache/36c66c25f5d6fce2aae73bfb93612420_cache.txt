@@ -1,0 +1,8 @@
+<meta property="og:title" content="Proyección Digital Internacional de la Royal Opera House de Londres" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/mural/proyeccion-digital-internacional-de-la-royal-opera-house-de-londres/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-05-03T16:09:52+00:00" />
+<meta property="article:modified_time" content="2016-05-03T16:10:30+00:00" />
+<meta property="og:updated_time" content="2016-05-03T16:10:30+00:00" />
