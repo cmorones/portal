@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Música de Cámara" />
+<meta property="og:description" content="Música de Cámara Laura Pérez, soprano; Diego Cajas, clarinete; Carlos Adriel Salmerón, piano Cuatro canciones sin palabras de Mendelssohn, Impromptu op. 90 no. 3 y El pastor en la roca de Schubert, Tres piezas de fantasía para clarinete y piano de Schumann y Seis canciones alemanas op. 103 de S&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/musica-de-camara/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-03-10T11:48:38+00:00" />
+<meta property="article:modified_time" content="2015-03-31T17:05:29+00:00" />
+<meta property="og:updated_time" content="2015-03-31T17:05:29+00:00" />

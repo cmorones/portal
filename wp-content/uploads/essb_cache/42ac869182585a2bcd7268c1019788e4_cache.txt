@@ -1,6 +1,8 @@
 <meta property="og:title" content="Música de Cámara" />
-<meta property="og:description" content="Música de Cámara Araceli Real, oboe; Manuel Hernández, clarinete; Jorge Risi, violín; Miguel Alcántara, viola; Alexei Diorditsa, contrabajo; Duane Cochran, piano; Sandra Galeano, actriz Quinteto op. 39 de Prokofiev y Suite de La historia del soldado de Stravinsky Sala Carlos Chávez 18:00 horas&hellip;" />
+<meta property="og:description" content="Música de Cámara Araceli Real, oboe; Manuel Hernández, clarinete; Jorge Risi, violín; Miguel Alcántara, viola; José Fernando Gómez, contrabajo; Duane Cochran, piano; Sandra Galeano, actriz Quinteto op. 39 de Prokofiev y Suite de La historia del soldado de Stravinsky Sala Carlos Chávez 18:00 &hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/musica-de-camara-6/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2016-04-21T13:15:03+00:00" />
+<meta property="article:modified_time" content="2016-05-12T15:56:19+00:00" />
+<meta property="og:updated_time" content="2016-05-12T15:56:19+00:00" />
