@@ -1,0 +1,8 @@
+<meta property="og:title" content="Recital de piano" />
+<meta property="og:description" content="Música de Cámara  María Antonieta Tello, piano Anfiteatro Simón Bolívar 12:00 horas $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-piano-6/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-05-19T16:43:04+00:00" />
+<meta property="article:modified_time" content="2016-06-02T11:26:22+00:00" />
+<meta property="og:updated_time" content="2016-06-02T11:26:22+00:00" />

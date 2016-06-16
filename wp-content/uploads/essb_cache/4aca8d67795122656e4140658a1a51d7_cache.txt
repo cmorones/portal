@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música de Cámara &#8211; Recital de piano con María Antonieta Tello" />
+<meta property="og:description" content="&nbsp; Domingo 12 de junio / 12:00 horas Anfiteatro Simón Bolívar La Dirección de Música de la UNAM organiza el recital con la pianista María Antonieta Tello. Se llevará a cabo el domingo 12 de junio en el Anfiteatro Simón Bolívar del Antiguo Colegio de San Ildefonso, con un programa compues&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-recital-de-piano-con-maria-antonieta-tello/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-06-06T14:24:56+00:00" />

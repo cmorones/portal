@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música de Cámara &#8211; Recital de guitarra con Juan Carlos Laguna" />
+<meta property="og:description" content="&nbsp; Domingo 5 de junio / 18:00 horas Sala Carlos Chávez La Dirección General de Música de la UNAM presenta una serie de recitales de guitarra en el mes de junio, el primero de ellos será “Una elegía para Takemitsu…” con Juan Carlos Laguna, el próximo domingo 5 de junio a las 18:00 hor&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-recital-de-guitarra-con-juan-carlos-laguna/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-05-30T10:46:36+00:00" />

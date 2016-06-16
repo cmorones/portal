@@ -1,0 +1,8 @@
+<meta property="og:title" content="Orquesta Sinfónica Estanislao Mejía de la Facultad de Música" />
+<meta property="og:description" content="Presencia de la Facultad de MúsicaOrquesta Sinfónica Estanislao Mejía de la Facultad de MúsicaSergio Cárdenas, director concertador; Luz del Carmen Ramírez, soprano; Ricardo Castrejón, tenor; Ricardo López,barítono; Niños y Jóvenes Cantores de la Fam; Coro Sinfónico del Sistema Nacional &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/orquesta-sinfonica-estanislao-mejia-de-la-facultad-de-musica/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-05-19T17:22:03+00:00" />
+<meta property="article:modified_time" content="2016-06-02T10:56:25+00:00" />
+<meta property="og:updated_time" content="2016-06-02T10:56:25+00:00" />
