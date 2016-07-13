@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música para violonchelo y piano" />
+<meta property="og:description" content="Jóvenes TalentosRolando Fernández, violonchelo; Alfredo I. Aguilar, piano Suite para violonchelo no. 5 de Bach, Sonata para violonchelo y piano de Chopin, Sonata para violonchelo y piano de Debussy, Oración de De una vida judía de Bloch y Tres danzas seculares de Lavista Sala Carlos Chávez 12:0&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/musica-para-violonchelo-y-piano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-06-16T16:32:38+00:00" />
