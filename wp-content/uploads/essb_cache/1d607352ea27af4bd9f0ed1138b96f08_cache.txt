@@ -1,0 +1,6 @@
+<meta property="og:title" content="A Todas Partes con la OJUEM " />
+<meta property="og:description" content="A Todas Partes con la OJUEMOrquesta Juvenil Universitaria Eduardo Mata de la UNAM Gustavo Rivero Weber, director artístico; Alan Pingarrón, tenor La serenata de F.P. Tosti, Obertura de Guillermo Tell de Rossini, Non ti scordar di me de E. De Curtis y obras de Gounod, Puccini, Chávez y Rimsky-Kors&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/a-todas-partes-con-la-ojuem-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-08-17T12:54:25+00:00" />

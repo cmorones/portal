@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM Concierto 5 de Otoño" />
+<meta property="og:description" content="OJUEM Conciertos de OtoñoOrquesta Juvenil Universitaria Eduardo Mata de la UNAMXXIV Festival Universitario de Clarinete 2016Concierto 5 Yehuda Gilad, director huésped; Solista ganador del concurso del Festival Chicatana* de Ulises Odín Zamorano Reyes, Concierto para clarinete no. 2 de Weber y Sin&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-5-de-otono/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-01T19:47:11+00:00" />

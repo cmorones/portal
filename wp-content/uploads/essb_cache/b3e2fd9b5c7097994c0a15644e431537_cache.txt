@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música Tradicional Mexicana" />
+<meta property="og:description" content="Música Tradicional Mexicana Caña Dulce y Caña Brava:Adriana Cao, arpa y canto; Raquel Palacios, jarana y canto; Violeta Romero, jarana, canto y zapateado; Alejandro Loredo, requinto y jarana de arco El siquisirí, El gallo, El fandanguito, El pájaro cú, La petenera, El pájaro carpintero, Los c&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/musica-tradicional-mexicana/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-08-17T11:13:13+00:00" />

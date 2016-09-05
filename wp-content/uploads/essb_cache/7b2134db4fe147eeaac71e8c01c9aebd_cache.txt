@@ -1,1 +1,9 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="María Teresa Frenk, piano" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/archivo-de-fotos/maria-teresa-frenk-piano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:tag" content="m" />
+<meta property="article:published_time" content="2015-04-03T19:55:26+00:00" />
+<meta property="article:modified_time" content="2016-04-12T13:23:51+00:00" />
+<meta property="og:updated_time" content="2016-04-12T13:23:51+00:00" />

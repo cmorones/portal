@@ -1,8 +1,1 @@
-<meta property="og:title" content="Yoav Talmi, director huésped" />
-<meta property="og:description" content="&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/archivo-de-fotos/yoav-talmi-director-huesped/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2016-05-24T14:26:16+00:00" />
-<meta property="article:modified_time" content="2016-05-24T14:33:30+00:00" />
-<meta property="og:updated_time" content="2016-05-24T14:33:30+00:00" />
+<meta property="og:type" content="website" />

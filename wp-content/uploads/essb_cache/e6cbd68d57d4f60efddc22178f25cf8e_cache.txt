@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="OFUNAM Fuera de temporada &#8211; El Niño y la Música" />
+<meta property="og:description" content="OFUNAM Fuera de temporadaEl Niño y la MúsicaPequeños grandes valientes Rodrigo Sierra Moncayo, director huésped; Mario Iván Martínez, narrador; Martín Mendieta, coreografía Pulgarcito:Selecciones de Mamá la Oca de Ravel y Serenata de Tchaikovsky, entre otras El soldadito de plomo:Seleccione&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ofunam-fuera-de-temporada-el-nino-y-la-musica-5/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-06-27T21:50:53+00:00" />

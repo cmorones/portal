@@ -1,0 +1,6 @@
+<meta property="og:title" content="Ensamble Cello Alterno" />
+<meta property="og:description" content="Música de Cámara Ensamble Cello Alterno:Iracema de Andrade, violonchelo; Edgardo Espinosa, violonchelo; Edith Ruiz, piano Sonata op. 2 no. 8 de Händel, selección de los 44 dúos para violín de Bartók, Choro Seresteiro de O. Lacerda, Aria de las Bachianas brasileiras no. 5 de Villa-Lobos y Suit&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ensamble-cello-alterno/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-08-17T12:45:18+00:00" />

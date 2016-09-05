@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música de Cámara &#8211; Un viaje por Europa" />
+<meta property="og:description" content="Música de CámaraUn viaje por Europa Daniel Ramírez, oboe barroco; Guillermo Turina, violonchelo barroco; Raúl Moncada, clavecín Concierto XIV de los Conciertos reales de Couperin, Sonata II de T. Vincent, Tocata IX de F. Supriani y Sonata para violonchelo de G. Facco, entre otras Sala Carlos Ch&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/musica-de-camara-un-viaje-por-europa/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-08-17T11:26:24+00:00" />

@@ -1,7 +1,7 @@
 
 		var essb_postcount_data = {
 		'ajax_url': 'http://musica.unam.mx/wp-admin/admin-ajax.php',
-		'post_id': '914'
+		'post_id': '0'
 	};
 	jQuery(document).bind('essb_selfpostcount_action', function (e, service, post_id) {		
 		post_id = String(post_id);
@@ -9,7 +9,7 @@
 	'action': 'essb_self_postcount',
 	'post_id': post_id,
 	'service': service,
-	'nonce': '7ea90e74bc'
+	'nonce': 'a2f800a2f5'
 	}, function (data) { if (data) {
 		//alert(data);
 	}},'json');});

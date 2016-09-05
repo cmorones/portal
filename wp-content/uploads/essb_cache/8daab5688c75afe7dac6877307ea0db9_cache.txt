@@ -1,6 +1,1 @@
-<meta property="og:title" content="OFUNAM Fuera de temporada &#8211; 5º Festival ¡en contacto contigo!" />
-<meta property="og:description" content="OFUNAM Fuera de temporada5º Festival ¡en contacto contigo!Ópera Tosca en concierto Enrique Patrón de Rueda, director huésped; Tosca: Elizabeth Blancke-Biggs, soprano; Cavaradossi: Carlos Arturo Galván, tenor; Scarpia: Carlos Almaguer, barítono; Coro de México: Gerardo Rábago, director coral&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/events/ofunam-fuera-de-temporada-5o-festival-en-contacto-contigo-2/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2016-06-28T11:59:59+00:00" />
+<meta property="og:type" content="website" />
