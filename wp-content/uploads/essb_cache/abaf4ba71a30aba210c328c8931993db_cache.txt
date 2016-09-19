@@ -1,0 +1,6 @@
+<meta property="og:title" content="Jóvenes Compositores de la Facultad de Música" />
+<meta property="og:description" content="Jóvenes Compositores de la Facultad de Música Jacinta Barbachano, mezzosoprano; Diego A. Jiménez, piano; Erick de la Paz, clarinete; Diego Sánchez, piano; Alejandro Reyes, violín; Canek León, piano; Ana Gabriela Fernández, piano; Cuarteto de Saxofones Ácatl Obras de Diego A. Jiménez, Aquile&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/jovenes-compositores-de-la-facultad-de-musica/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-15T17:14:00+00:00" />
