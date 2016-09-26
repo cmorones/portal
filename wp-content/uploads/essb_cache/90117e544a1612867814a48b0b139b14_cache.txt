@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto de Clausura" />
+<meta property="og:description" content="Concierto de ClausuraSegundo Taller de Interpretación Rossiniana Iván López Reynoso, director musical Selecciones de El turco en Italia, La dama del lago, Semíramis y La urraca ladrona, entre otras Anfiteatro Simón Bolívar 12:00 horas Entrada libre (cupo limitado al aforo del recinto) Programa&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-de-clausura/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-23T16:47:55+00:00" />

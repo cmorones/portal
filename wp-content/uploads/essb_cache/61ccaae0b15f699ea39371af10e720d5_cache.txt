@@ -1,6 +1,8 @@
 <meta property="og:title" content="OFUNAM Tercera Temporada &#8211; Programa 1" />
-<meta property="og:description" content="OFUNAM Tercera TemporadaPrograma 1 Jorge Mester, director huésped; Sócrates Villegas, clarinete Concierto para clarinete no. 1 de Weber, Sinfonía no. 1 y Sinfonía no. 2 de Beethoven Sala Nezahualcóyotl 12:00 horas $240, $160 y $100 Boletos especiales Segundo piso: Familiar 4 boletos por $100 y&hellip;" />
+<meta property="og:description" content="OFUNAM Tercera TemporadaPrograma 1 Jorge Mester, director huésped; Manuel Hernández, clarinete Concierto para clarinete no. 1 de Weber, Sinfonía no. 1 y Sinfonía no. 2 de Beethoven Sala Nezahualcóyotl 12:00 horas $240, $160 y $100 Boletos especiales Segundo piso: Familiar 4 boletos por $100 y &hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/ofunam-tercera-temporada-programa-1-4/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2016-06-27T21:40:28+00:00" />
+<meta property="article:modified_time" content="2016-09-22T17:58:42+00:00" />
+<meta property="og:updated_time" content="2016-09-22T17:58:42+00:00" />

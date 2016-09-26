@@ -1,0 +1,6 @@
+<meta property="og:title" content="Recital de violín y piano" />
+<meta property="og:description" content="Música de Cámara Kazimierz Olechowski, violín; Józef Olechowski, piano Sonata K 304 de Mozart, Sonata op. 105 de Schumann, Nocturno op. póstumo de Chopin, Liebesleid y Liebesfreud de Kreisler, De siempre de Sabre Marroquín, Poema, Romance y Fantasía y Vals brasileño de J. Olechowski Sala Car&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-violin-y-piano-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-23T16:36:24+00:00" />

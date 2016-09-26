@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto Internacional (Italia-Alemania)" />
+<meta property="og:description" content="Concierto Internacional (Italia-Alemania)Italia y Alemania. Inspiración mutua de dos culturas Christine Streubühr, mezzosoprano; Tommaso Turchetta, piano Canciones de concierto de Liszt, F. Hensel, G. Martucci, G. Sgambati, A. Smareglia y A. Franchetti Sala Carlos Chávez 19:00 horas Entrada libre&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-italia-alemania/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-23T17:45:16+00:00" />
+<meta property="article:modified_time" content="2016-09-26T11:50:09+00:00" />
+<meta property="og:updated_time" content="2016-09-26T11:50:09+00:00" />

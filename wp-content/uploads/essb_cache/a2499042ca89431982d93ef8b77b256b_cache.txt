@@ -1,0 +1,8 @@
+<meta property="og:title" content="Jóvenes Talentos &#8211; Música Contemporánea" />
+<meta property="og:description" content="Jóvenes Talentos de la Facultad de MúsicaMúsica Contemporánea Parte IOnomatopeya Trío:Juana Sánchez, flauta; Nezly Sarmiento, viola; Humberto Gutiérrez, guitarra Paisajes, retratos y mujeres de Brouwer, Pieza en dos movimientos* de Carlos García y obras de Gerardo Ibarra, Paola Josefina G. P&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/jovenes-talentos-musica-contemporanea/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-20T12:08:24+00:00" />
+<meta property="article:modified_time" content="2016-09-22T19:06:04+00:00" />
+<meta property="og:updated_time" content="2016-09-22T19:06:04+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto de los Ganadores del Concurso María Bonilla 2016" />
+<meta property="og:description" content="Presencia de la Facultad de MúsicaConcierto de los Ganadores del Concurso María Bonilla 2016 Sala Carlos Chávez 18:00 horas Entrada libre (cupo limitado al aforo del recinto)           Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-de-los-ganadores-del-concurso-maria-bonilla-2016/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-23T17:29:53+00:00" />
