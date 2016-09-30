@@ -1,0 +1,8 @@
+<meta property="og:title" content="Convocatoria FICORU" />
+<meta property="og:description" content="Descargar solicitud FICORU&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/mural/convocatoria-ficoru/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-27T10:50:57+00:00" />
+<meta property="article:modified_time" content="2016-09-27T11:48:16+00:00" />
+<meta property="og:updated_time" content="2016-09-27T11:48:16+00:00" />
