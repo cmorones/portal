@@ -65,7 +65,7 @@
     
     <div class="wraptxtpie">
         <div class="txtpie01">
-Última actualización - agosto 2016<br/>
+Última actualización - octubre 2016<br/>
 Copyright 2015 MUSICA UNAM • Diseño y administración e:de . Desarrollo LabCitrico<br/><br/>
             
         Hecho en México, Universidad Nacional Autónoma de México (UNAM), todos los derechos reservados 2015. Esta página puede ser reproducida con fines no lucrativos, siempre y cuando no se mutile, se cite la fuente completa y su dirección electrónica. De otra forma, requiere permiso previo por escrito de la institución.<br/><br/>

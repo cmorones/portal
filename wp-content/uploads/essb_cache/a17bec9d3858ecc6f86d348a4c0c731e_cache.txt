@@ -1,0 +1,8 @@
+<meta property="og:title" content="Convocatoria a la Beca Cátedra Extraordinaria &#8220;Arturo Márquez de Composición Musical&#8221;" />
+<meta property="og:description" content="Descargar la ficha de inscripción&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/convocatoria-a-la-beca-catedra-extraordinaria-arturo-marquez-de-composicion-musical/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-10T19:40:24+00:00" />
+<meta property="article:modified_time" content="2016-10-11T19:31:48+00:00" />
+<meta property="og:updated_time" content="2016-10-11T19:31:48+00:00" />

@@ -1,0 +1,9 @@
+<meta property="og:title" content="Música en territorio puma" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/archivo-memorias/musica-en-territorio-puma-2/" />
+<meta property="og:image" content="http://musica.unam.mx/wp-content/uploads/2016/10/A-MusicaTerritorioPuna_Portada.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-05T16:13:53+00:00" />
+<meta property="article:modified_time" content="2016-10-05T17:49:43+00:00" />
+<meta property="og:updated_time" content="2016-10-05T17:49:43+00:00" />

@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Sylvain Gasançon, director huésped" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/archivo-de-fotos/sylvain-gasancon-director-huesped/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-06-29T16:58:10+00:00" />

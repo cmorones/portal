@@ -1,0 +1,6 @@
+<meta property="og:title" content="Trío Morelia" />
+<meta property="og:description" content="Música de Cámara Trío Morelia:Ludwig Carrasco, violín; Irene Carrasco, violonchelo; Laura Carrasco, piano Balada a Dulcinea de X. Monsalvatge, Suite antigua sobre Don Quijote de R. Laparra, Tristesse de Dulcinée de Massenet, Trío castellano* de H. Collet, Serenata a Dulcinea de E. Halffter y D&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/trio-morelia/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-18T20:46:44+00:00" />

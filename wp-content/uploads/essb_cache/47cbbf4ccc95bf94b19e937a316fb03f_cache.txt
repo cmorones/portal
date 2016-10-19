@@ -1,8 +1,8 @@
 <meta property="og:title" content="Abonos y boletos" />
-<meta property="og:description" content="OFUNAM Tercera Temporada 2016 Conciertos sábados y domingos Del sábado 08 de octubre al domingo 18 de diciembre de 2016.   Abono Soy Fan OFUNAM (no aplica descuento) Válido para los ocho conciertos de la temporada(Sólo sábado o domingo)  Soy Fan OFUNAM            $250 Vigencia de l&hellip;" />
+<meta property="og:description" content="OFUNAM Tercera Temporada 2016 Conciertos sábados y domingos Del sábado 08 de octubre al domingo 18 de diciembre de 2016. &nbsp; BOLETOS: Programas de Temporada (Excepto Programa 8)Primer piso          $ 240Orquesta y Coro  $ 160Segundo piso       $ 100 &nbsp; Programa 8 conmemorativo 80 a&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/ofunam-2/abonos-y-boletos/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2015-01-28T16:22:39+00:00" />
-<meta property="article:modified_time" content="2016-09-12T10:40:59+00:00" />
-<meta property="og:updated_time" content="2016-09-12T10:40:59+00:00" />
+<meta property="article:modified_time" content="2016-10-11T11:11:18+00:00" />
+<meta property="og:updated_time" content="2016-10-11T11:11:18+00:00" />

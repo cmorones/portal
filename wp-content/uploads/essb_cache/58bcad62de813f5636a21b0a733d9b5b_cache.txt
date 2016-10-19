@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Música de Cámara &#8211; Recital de piano con Martín Camacho" />
+<meta property="og:description" content="&nbsp; Domingo 19 de junio / 12:00 horas Anfiteatro Simón Bolívar La Dirección de Música de la UNAM organiza el recital de piano con Martín Camacho el domingo 19 de junio en el Anfiteatro Simón Bolívar del Antiguo Colegio de San Ildefonso. El programa estará compuesto por Balada mexicana de &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-recital-de-piano-con-martin-camacho/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-06-13T11:13:11+00:00" />
+<meta property="article:modified_time" content="2016-06-13T14:02:22+00:00" />
+<meta property="og:updated_time" content="2016-06-13T14:02:22+00:00" />

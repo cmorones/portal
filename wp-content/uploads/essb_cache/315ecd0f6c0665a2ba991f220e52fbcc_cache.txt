@@ -1,0 +1,6 @@
+<meta property="og:title" content="Jóvenes Talentos" />
+<meta property="og:description" content="Jóvenes Talentos Acela Julieta Márquez, violín; Reynol Arredondo, piano Fantasía y Tema con variaciones de Messiaen, Tzigane de Ravel y Sonata en la mayor de Franck Sala Carlos Chávez 18:00 horas Entrada libre (cupo limitado al aforo de la sala) Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/jovenes-talentos-7/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-14T18:22:00+00:00" />
