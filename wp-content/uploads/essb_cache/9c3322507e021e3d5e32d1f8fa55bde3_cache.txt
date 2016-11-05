@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música de Cámara &#8211; Recital El hechizo de la danza" />
+<meta property="og:description" content="&nbsp; Piano a cuatro manos con Irina Shíshkina y Polina Fedotova Domingo 06 de noviembre / Sala Carlos Chávez La Dirección General de Música de la UNAM organiza el recital El hechizo de la danza con la participación de Irína Shíshkina y Polina Fetodova al piano. Se llevará a cabo el domingo&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-recital-el-hechizo-de-la-danza/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-31T14:51:45+00:00" />

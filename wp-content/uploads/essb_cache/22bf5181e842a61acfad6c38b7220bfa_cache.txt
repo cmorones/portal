@@ -1,6 +1,8 @@
 <meta property="og:title" content="OFUNAM Tercera Temporada &#8211; Programa 4" />
-<meta property="og:description" content="OFUNAM Tercera TemporadaPrograma 4XXIV Festival Universitario de Clarinete FaM Paul Meyer, director huésped y clarinete Ángelus de Bernal Jiménez, Concierto para clarinete de Mozart y Sinfonía no. 5 de Beethoven Sala Nezahualcóyotl 20:00 horas $240, $160 y $100 Boletos especiales Segundo piso:�&hellip;" />
+<meta property="og:description" content="OFUNAM Tercera TemporadaPrograma 4XXIV Festival Universitario de Clarinete FaM Paul Meyer, director huésped y clarinete Ángelus de Bernal Jiménez, Concierto para clarinete de Mozart y Sinfonía no. 5 de Beethoven Sala Nezahualcóyotl 20:00 horas $240, $160 y $100 Programa sujeto a cambios&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/ofunam-tercera-temporada-programa-4/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2016-06-28T12:06:37+00:00" />
+<meta property="article:modified_time" content="2016-10-27T16:16:49+00:00" />
+<meta property="og:updated_time" content="2016-10-27T16:16:49+00:00" />

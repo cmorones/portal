@@ -1,0 +1,8 @@
+<meta property="og:title" content="Mujeres en el Arte" />
+<meta property="og:description" content="Mujeres en el Arte Yolotli. Coro de Mujeres de los Pueblos Indígenas de México: Leticia Armijo, directora Om, Alhambra, Ciclos, Coatlicue y Coyolxhauqui de L. Armijo Anfiteatro Simón Bolívar 12:00 horas Entrada libre (cupo limitado al aforo del recinto) Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/mujeres-en-el-arte/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-14T18:50:24+00:00" />
+<meta property="article:modified_time" content="2016-10-18T14:30:00+00:00" />
+<meta property="og:updated_time" content="2016-10-18T14:30:00+00:00" />

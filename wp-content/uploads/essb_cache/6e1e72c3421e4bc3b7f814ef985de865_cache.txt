@@ -1,0 +1,6 @@
+<meta property="og:title" content="Jóvenes Talentos" />
+<meta property="og:description" content="Jóvenes TalentosMúsica moderna en Europa y América Latina Fabrizzio Vargas, piano Sonata para piano 1.X.1905 de Janácek, Legende y Balada mexicana de Ponce, Impressões seresteiras y Valsa da dor de Villa-Lobos, El Pont Montjuic de F. Mompou, Triana de Albéniz, Costeña de E. Hernández Moncada&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/jovenes-talentos-8/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-14T18:35:30+00:00" />

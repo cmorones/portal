@@ -1,0 +1,6 @@
+<meta property="og:title" content="Programa Coral Universitario" />
+<meta property="og:description" content="Programa Coral Universitario Coro Universitario Estudiantil StaccatoMarco Antonio Ugalde, director Anfiteatro Simón Bolívar 12:00 horas $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/programa-coral-universitario-12/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-18T21:12:54+00:00" />
