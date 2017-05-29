@@ -1,0 +1,6 @@
+<meta property="og:title" content="Trío de Miguel Ordóñez" />
+<meta property="og:description" content="Jazz, Tangos y Ritmos Latinoamericanos Trío de Miguel Ordóñez:Samuel García, saxofón; Víctor Flores, contrabajo; Miguel Ordóñez, guitarra electroacústica Dos estudios modales para guitarra sola, Vals y son, Bajo cielo y Danzón Constanza de M. Ordóñez, entre otras Anfiteatro Simón Bolív&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/trio-de-miguel-ordonez/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-31T19:12:00+00:00" />

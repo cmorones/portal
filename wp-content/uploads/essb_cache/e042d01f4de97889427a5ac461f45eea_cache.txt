@@ -1,0 +1,9 @@
+<meta property="og:title" content="Abono Fan Ofunam" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/ofunam/abono-soy-fan-ofunam/abono/" />
+<meta property="og:image" content="http://musica.unam.mx/wp-content/uploads/2015/01/abono.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-02-04T19:37:15+00:00" />
+<meta property="article:modified_time" content="2015-02-04T19:37:58+00:00" />
+<meta property="og:updated_time" content="2015-02-04T19:37:58+00:00" />

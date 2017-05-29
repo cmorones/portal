@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Música Contemporánea en el MUAC &#8211; Recital con ÓNIX Ensamble" />
+<meta property="og:description" content="  Sábado 24 de septiembre / Auditorio del MUAC La Dirección General de Música de la UNAM y el Museo Universitario Arte Contemporáneo MUAC organizan el concierto de ÓNIX Ensamble dentro del Ciclo de Música Contemporánea. Se llevará a cabo el próximo sábado 24 de septiembre en el Auditorio &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-contemporanea-en-el-muac-recital-con-onix-ensamble/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-19T17:58:13+00:00" />

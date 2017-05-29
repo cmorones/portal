@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto Internacional (Italia-México)" />
+<meta property="og:description" content="Concierto Internacional (Italia-México) Ensamble de Cámara Filarmonía; Massimo Quarta, violín y director Concierto para violín en mi menor de Tartini y Las cuatro estaciones de Vivaldi Sala Nezahualcóyotl 18:00 horas                  $400, $300 y $200 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-italia-mexico/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-05-08T21:22:00+00:00" />
+<meta property="article:modified_time" content="2017-05-23T11:34:35+00:00" />
+<meta property="og:updated_time" content="2017-05-23T11:34:35+00:00" />

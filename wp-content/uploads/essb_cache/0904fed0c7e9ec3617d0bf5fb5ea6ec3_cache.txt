@@ -1,0 +1,6 @@
+<meta property="og:title" content="Festival Internacional de Piano" />
+<meta property="og:description" content="Festival Internacional de PianoClase Magistral Yulianna Avdeeva (Rusia) Sala Carlos Chávez 16:00 horas Entrada libre (cupo limitado al aforo del recinto) Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/festival-internacional-de-piano-5/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-05T19:55:04+00:00" />

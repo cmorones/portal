@@ -78,7 +78,7 @@ body {
 .plecahome { background: url("img/plecahome.png") repeat scroll center center transparent; width: 58px; height: 5px; display: block; position: absolute; bottom: -5px; }
 .logotxt { font-family: "PalatinoLTStdRoman" !important; color: #7F7F7F; font-size: 28px; width: 367px; height: 28px; display: block; margin: 0px -6px 0px; bottom: 0%; position: absolute; right: 0%; } 
 .logotxt a { color: #7F7F7F; text-decoration: none; }
-.dirGral { background: transparent url("img/dirGral.png") no-repeat scroll center center; width: 219px; height: 27px; position: relative; display: block; float: right; padding-right: 13px; }
+.dirGral { background: transparent url("img/dirGral0.png") no-repeat scroll center center; width: 219px; height: 27px; position: relative; display: block; float: right; padding-right: 13px; }
 .logomsc { display: none; width: 101px; padding: 0px; max-width: 100%; background: url("img/logo-2.png") no-repeat scroll center center transparent !important; position: absolute; height: 54px; margin: 0px; right: 0px; }
 .logo-2 img { margin: 0px; float: right; position: relative; max-width: 100%; }
 body .gform_wrapper label.gfield_label + div.ginput_container { margin-top: 0 !important; }
@@ -479,13 +479,11 @@ footer  .widget a { color: #b2b2b2; text-decoration: none; }
 
 .wraptxtpie { margin: 0px auto; position: relative; clear: both; display: table; width: 100%; padding: 0 0 10px; }
 
-.txtpie01, .txtpie02 {  display: block; float: left; position: relative; padding: 0px 0px 0px 0px; font-family: "MyriadProRegular"; font-size: 10px; line-height: 130%; color: #B2B2B2; }
-.txtpie01 { width: 65%;  }
+.txtpie01, .txtpie02 {  display: block; float: left; position: relative; padding: 0px 0px 0px 0px; font-family: "MyriadProRegular"; font-size: 10px; text-align:justify; line-height: 130%; color: #B2B2B2; }
+.txtpie01 { width: 100%;  }
 .txtpie02 { width: 35%;  }
 .txtpie01 { text-align: left;}
 .txtpie02 { text-align: right;}
-
-
 
 /**********************
  *CSS Animations by:

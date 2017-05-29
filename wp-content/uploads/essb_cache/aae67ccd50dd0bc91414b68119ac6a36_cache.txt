@@ -1,0 +1,6 @@
+<meta property="og:title" content="Audiciones abiertas de la OFUNAM para violines, viola y violonchelo" />
+<meta property="og:description" content="&nbsp; Límite de entrega de documentos viernes 06 de enero de 2017 Audiciones 11, 12, 13 y 18 de enero de 2017 según el instrumento La Orquesta Filarmónica de la UNAM convoca a las audiciones abiertas para ocupar las plazas de base vacantes de Violín primero, Violín segundo, Viola y Violonchelo&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/audiciones-abiertas-de-la-ofunam-para-violines-viola-y-violonchelo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-11-15T13:05:03+00:00" />

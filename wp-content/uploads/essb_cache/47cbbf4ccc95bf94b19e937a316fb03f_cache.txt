@@ -1,8 +1,8 @@
 <meta property="og:title" content="Boletos" />
-<meta property="og:description" content="OFUNAM Tercera Temporada 2016 Conciertos sábados y domingos Del sábado 08 de octubre al domingo 18 de diciembre de 2016. &nbsp; BOLETOS: Programas de Temporada (Excepto Programa 8)Primer piso          $ 240Orquesta y Coro  $ 160Segundo piso       $ 100 &nbsp; Programa 8 conmemorativo 80 a&hellip;" />
+<meta property="og:description" content=" OFUNAM Segunda Temporada 2017 Conciertos sábados y domingosDel 06 de mayo al 25 de junio BOLETOS: • Programas de Temporada   Primer piso $ 240   Orquesta y Coro $ 160   Segundo piso $ 100 Boletos disponibles en las taquillas de la Sala con el 50% de descuento personal con credencial vige&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/ofunam-2/abonos-y-boletos/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2015-01-28T16:22:39+00:00" />
-<meta property="article:modified_time" content="2016-11-04T13:01:25+00:00" />
-<meta property="og:updated_time" content="2016-11-04T13:01:25+00:00" />
+<meta property="article:modified_time" content="2017-05-11T10:45:15+00:00" />
+<meta property="og:updated_time" content="2017-05-11T10:45:15+00:00" />

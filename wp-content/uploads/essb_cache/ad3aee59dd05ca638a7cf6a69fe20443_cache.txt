@@ -1,0 +1,8 @@
+<meta property="og:title" content="Festival Internacional de Piano" />
+<meta property="og:description" content="Festival Internacional de Piano Naoya Seino, piano (Japón) Sonata para piano no. 21 de Schubert, Images I de Debussy y Reminiscences de Norma de Bellini de Liszt Sala Carlos Chávez 18:00 horas $130 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/festival-internacional-de-piano-8/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-05T20:06:42+00:00" />
+<meta property="article:modified_time" content="2017-01-25T16:43:10+00:00" />
+<meta property="og:updated_time" content="2017-01-25T16:43:10+00:00" />

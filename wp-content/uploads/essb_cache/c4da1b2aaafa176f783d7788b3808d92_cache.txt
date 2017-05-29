@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto de la OJUEM en el marco del XXIV Festival de Clarinete FaM &#8211; Estreno mundial de Chicatana de Odín Zamorano" />
+<meta property="og:description" content="&nbsp; Obra escrita bajo los auspicios de la Cátedra Extraordinaria Arturo Márquez de Composición Musical Domingo 20 de noviembre / Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata de la UNAM en el marco del XXIV Festival de Clarinete FaM llevará a cabo un concierto el próxim&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-de-la-ojuem-en-el-marco-del-xxiv-festival-de-clarinete-fam-estreno-mundial-de-chicatana-de-odin-zamorano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-11-15T12:50:13+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="Presencia de la Facultad de Música &#8211; Concierto de música antigua con los ensambles Tlahuitóyotl y Stylus Phantasticus" />
+<meta property="og:description" content="&nbsp; Sábado 14 de mayo / 18:00 horas Sala Carlos Chávez La Dirección General de Música de la UNAM dentro del ciclo permanente Presencia de la Facultad de Música organiza el concierto de música antigua con los ensambles Tlahuitóyotl y Stylus Phantasticus, que se llevará a cabo el próximo s&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/presencia-de-la-facultad-de-musica-concierto-de-musica-antigua-con-los-ensambles-tlahuitoyotl-y-stylus-phantasticus/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-05-09T11:11:52+00:00" />

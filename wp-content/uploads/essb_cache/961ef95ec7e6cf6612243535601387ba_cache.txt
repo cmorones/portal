@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto Internacional &#8211; Recital de Lidia Kavina al teremín y el pianista Sergio Vázquez" />
+<meta property="og:description" content="&nbsp; Sábado 03 de diciembre en la Sala Carlos Chávez / Entrada libre La Dirección General de Música de la UNAM organiza el concierto internacional Rusia y Gran Bretaña-México con Lidia Kavina al teremín y el pianista Sergio Vázquez. Se llevará a cabo el sábado 03 de diciembre en la Sala &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-internacional-recital-de-lidia-kavina-al-teremin-y-el-pianista-sergio-vazquez/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-11-28T17:35:26+00:00" />

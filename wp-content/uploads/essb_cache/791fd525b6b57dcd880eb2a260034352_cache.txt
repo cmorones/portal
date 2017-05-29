@@ -1,0 +1,8 @@
+<meta property="og:title" content="Orquesta Sinfónica de la Universidad de Guanajuato &#8211; 65 Aniversario OSUG" />
+<meta property="og:description" content="Orquesta Sinfónica de la Universidad de Guanajuato65 Aniversario OSUG Roberto Beltrán-Zavala, director titular; Francisco Fullana, violín Lucretius tragicus de Jorge Torres Sáenz, Las mujeres de Pénjamo. La marcha de las rehenes de Javier González Compeán, Concierto para violín op. 64 de Men&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/orquesta-sinfonica-de-la-universidad-de-guanajuato-65-aniversario-osug/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-05-03T19:02:01+00:00" />
+<meta property="article:modified_time" content="2017-05-23T11:25:39+00:00" />
+<meta property="og:updated_time" content="2017-05-23T11:25:39+00:00" />

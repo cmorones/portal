@@ -1,0 +1,8 @@
+<meta property="og:title" content="Programa Coral Universitario" />
+<meta property="og:description" content="Programa Coral Universitario Coro de la Facultad de Contaduría y Administración: Édgar Domínguez, director; Coro de la Facultad de Química y Coro de la Facultad de Ingeniería: Óscar Herrera, director Sala Carlos Chávez 18:00 horas                               &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/programa-coral-universitario-14/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-05-08T21:25:15+00:00" />
+<meta property="article:modified_time" content="2017-05-23T11:41:32+00:00" />
+<meta property="og:updated_time" content="2017-05-23T11:41:32+00:00" />

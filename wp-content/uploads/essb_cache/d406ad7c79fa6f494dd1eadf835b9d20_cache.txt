@@ -1,1 +1,9 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Viktoria Horti, viola" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/archivo-de-fotos/viktoria-horti-viola/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:tag" content="v" />
+<meta property="article:published_time" content="2015-04-03T19:46:58+00:00" />
+<meta property="article:modified_time" content="2016-04-08T13:39:25+00:00" />
+<meta property="og:updated_time" content="2016-04-08T13:39:25+00:00" />

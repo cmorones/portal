@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto Internacional (Estados Unidos)" />
+<meta property="og:description" content="Concierto Internacional (Estados Unidos) David Korevaar, piano Sonata para piano no. 7 de Beethoven, Nocturno no. 9 y Variaciones sobre un tema de Schubert de L. Liebermann, selección de Nueve pequeños poemas de L. Perrachio y Cuatro piezas para piano op. 119 de Brahms Sala Carlos Chávez 18:00 ho&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-estados-unidos-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-31T20:36:26+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música de Cámara &#8211; Recital Se mueren de amor los ramos con el Dúo Amoria" />
+<meta property="og:description" content="&nbsp; Sábado 6 de agosto / 18:00 horas Sala Carlos Chávez La Dirección General de Música de la UNAM organiza el recital Se mueren de amor los ramos, en torno a las canciones recopiladas y grabadas por Federico García Lorca en su 80 aniversario luctuoso. Contará con la participación del Dúo &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-recital-se-mueren-de-amor-los-ramos-con-el-duo-amoria/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-08-01T12:03:06+00:00" />

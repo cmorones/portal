@@ -1,0 +1,6 @@
+<meta property="og:title" content="Ópera Tosca de Puccini con la OFUNAM en el 5º Festival ¡en contacto contigo!" />
+<meta property="og:description" content="  Dirige a la orquesta Enrique Patrón de Rueda 12 y 13 de noviembre en la Sala Nezahualcóyotl La Orquesta Filarmónica de la UNAM en el marco del 5º Festival ¡en contacto contigo! llevará a cabo un programa fuera de temporada que será dirigido por Enrique Patrón de Rueda y tendrá lugar el 1&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/opera-tosca-de-puccini-con-la-ofunam-en-el-5o-festival-en-contacto-contigo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-11-07T18:26:44+00:00" />

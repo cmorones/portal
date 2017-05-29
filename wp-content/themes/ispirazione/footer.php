@@ -64,19 +64,12 @@
 </div>
     
     <div class="wraptxtpie">
-        <div class="txtpie01">
-Última actualización - octubre 2016<br/>
-Copyright 2015 MUSICA UNAM • Diseño y administración e:de . Desarrollo LabCitrico<br/><br/>
-            
-        Hecho en México, Universidad Nacional Autónoma de México (UNAM), todos los derechos reservados 2015. Esta página puede ser reproducida con fines no lucrativos, siempre y cuando no se mutile, se cite la fuente completa y su dirección electrónica. De otra forma, requiere permiso previo por escrito de la institución.<br/><br/>
-        Powered by <a href="http://labcitrico.com/" title="LabCitrico">LabCitrico</a>. <a href="http://e-de.com.mx/" title="e:de">e:de</a>.     
-        </div>
-        <div class="txtpie02">
-           <div class="sliderLogos01">
-            <?php do_action('slideshow_deploy', '512'); ?>
-           </div>
-        </div>
+        <div class="txtpie01" style="width:100%; text-align:justify;">
+Copyright 2015•2017 MUSICA UNAM<br/><br/>
+Hecho en México, Universidad Nacional Autónoma de México (UNAM), todos los derechos reservados 2015•2017. Esta página puede ser reproducida con fines no lucrativos, siempre y cuando no se mutile, se cite la fuente completa y su dirección electrónica. De otra forma, requiere permiso previo por escrito de la institución. </div>
     </div>
+
+<div style="display: block; position: relative; margin-left: auto; margin-right: auto; padding: 0px 0px 10px 0px; text-align:center;"><a href="http://www.unam.mx/" title="Inicio" target="_blank" align="center"><img src="<?php bloginfo('template_directory'); ?>/img/logos_difusion.png" /></a> </div><!-- logo difusion -->
 </footer><!-- #footer -->
 <?php wp_footer(); ?>
 

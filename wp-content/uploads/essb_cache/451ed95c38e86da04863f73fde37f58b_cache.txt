@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Festival Divertimento &#8211; Teresa Navarro, soprano; Arturo Uruchurtu, piano" />
+<meta property="og:description" content="Festival Divertimento  Teresa Navarro, soprano; Arturo Uruchurtu, piano Obras de Schumann y R. Strauss, entre otros Anfiteatro Simón Bolívar/12:00 horas Entrada libre (cupo limitado al aforo de la Sala) &nbsp; Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/festival-divertimento-18abril2015/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-04-05T22:00:35+00:00" />
+<meta property="article:modified_time" content="2015-04-07T16:29:02+00:00" />
+<meta property="og:updated_time" content="2015-04-07T16:29:02+00:00" />

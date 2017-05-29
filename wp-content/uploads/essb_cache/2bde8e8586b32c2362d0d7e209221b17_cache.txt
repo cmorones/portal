@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Terceto de Guitarras de la Ciudad de México" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/archivo-de-fotos/terceto-de-guitarras-de-la-ciudad-de-mexico/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-06-13T18:09:59+00:00" />

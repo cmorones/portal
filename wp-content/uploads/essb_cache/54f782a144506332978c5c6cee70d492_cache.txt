@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Lior Shambadal dirige a la OFUNAM con música de Bartók y Tchaikovsky" />
+<meta property="og:description" content="&nbsp; Sábado 28 y domingo 29 de mayo / Sala Nezahualcóyotl Solista Massimo Quarta en el violín La Orquesta Filarmónica de la UNAM llevará a cabo el sexto programa de la Segunda Temporada bajo la batuta del director huésped Lior Shambadal y la participación solista de Massimo Quarta en el vio&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/lior-shambadal-dirige-a-la-ofunam-con-musica-de-bartok-y-tchaikovsky/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-05-23T16:06:00+00:00" />
+<meta property="article:modified_time" content="2016-05-25T16:30:20+00:00" />
+<meta property="og:updated_time" content="2016-05-25T16:30:20+00:00" />

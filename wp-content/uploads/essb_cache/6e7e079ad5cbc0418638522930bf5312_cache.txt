@@ -1,0 +1,8 @@
+<meta property="og:title" content="Jóvenes Talentos &#8211; oirTrío" />
+<meta property="og:description" content="Jóvenes Talentos oirTrío:Alejandra Cortés, violín; Diego Cifuentes, violonchelo; Cecilia Cirión, piano Trío K 502 de Mozart, Trío elegíaco no. 1 de Rachmaninov y Trío para cuerdas y piano no. 2 de Mendelssohn Sala Carlos Chávez 18:00 horas Entrada libre (cupo limitado al aforo de la sala) &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/jovenes-talentos-oirtrio/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-04T17:18:01+00:00" />
+<meta property="article:modified_time" content="2015-06-12T18:31:08+00:00" />
+<meta property="og:updated_time" content="2015-06-12T18:31:08+00:00" />

@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="5º Festival ¡en contacto contigo! &#8211; Recital de piano" />
+<meta property="og:description" content="5º Festival ¡en contacto contigo! Héctor Rosete, piano Preludio y fuga en sol menor BWV 885 de Bach, Sonata no. 2 de Beethoven, Dos estudios de Chopin, Sólo de olvido un recuerdo de J. Álvarez, Oiseaux tristes de Ravel, Sonata op. 1 de Berg y Vals Mephisto no. 1 de Liszt Sala Carlos Chávez 17:&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/5o-festival-en-contacto-contigo-recital-de-piano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-14T17:44:18+00:00" />

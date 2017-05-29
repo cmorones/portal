@@ -1,0 +1,6 @@
+<meta property="og:title" content="FORO AL AIRE LIBRE &#8211; Casa del Lago" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/taquillas/foro-al-aire-libre-casa-del-lago/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-12-13T18:10:11+00:00" />

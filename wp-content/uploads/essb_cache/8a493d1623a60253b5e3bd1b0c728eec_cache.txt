@@ -1,0 +1,8 @@
+<meta property="og:title" content="Orquesta Sinfónica Estanislao Mejía de la Facultad de Música" />
+<meta property="og:description" content="Orquesta Sinfónica Estanislao Mejía de la Facultad de MúsicaFiesta del Libro y la Rosa Sergio Cárdenas, director artístico; Carmen Ferrá, soprano; Linda Saldaña, mezzosoprano; Alan Pingarrón, tenor; Rubén Luque,barítono; Coro Sinfónico del Sistema Nacional de Fomento Musical; Orquesta de &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/orquesta-sinfonica-estanislao-mejia-de-la-facultad-de-musica-4/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-03-09T19:18:55+00:00" />
+<meta property="article:modified_time" content="2017-03-27T11:51:41+00:00" />
+<meta property="og:updated_time" content="2017-03-27T11:51:41+00:00" />

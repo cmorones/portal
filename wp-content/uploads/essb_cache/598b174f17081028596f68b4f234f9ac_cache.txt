@@ -1,1 +1,9 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Jan Latham-Koenig, director" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/archivo-de-fotos/jan-latham-koenig-director-artistico/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:tag" content="j" />
+<meta property="article:published_time" content="2015-04-03T14:57:50+00:00" />
+<meta property="article:modified_time" content="2016-04-27T18:01:29+00:00" />
+<meta property="og:updated_time" content="2016-04-27T18:01:29+00:00" />

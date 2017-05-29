@@ -30,12 +30,8 @@
 
  <header>
      <div class="cabeza">
-         <div id="logo"><a href="http://www.unam.mx/" title="Inicio" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/logotipo.png" /></a> </div><!-- logo -->
-         <div class="logo-2">
-             <div class="logotxt"><a href="<?php bloginfo('url'); ?>" class="dirGral"></a></div>
-             <div class="logomsc"></div>
-         </div>
-     </div>
+         <div id="logo"><img src="<?php bloginfo('template_directory'); ?>/img/cultura.png" /><a href="http://www.musica.unam.mx/" title="Inicio"><img src="<?php bloginfo('template_directory'); ?>/img/musica.png" /></a> </div><!-- logo -->
+             </div>
 
 <div class="menu-toggle-button" data-menu-id="menunav"> Menu ≡</div>
 

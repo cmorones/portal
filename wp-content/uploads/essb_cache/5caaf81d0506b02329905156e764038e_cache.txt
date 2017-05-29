@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Primer Festival Universitario de Piccolo" />
+<meta property="og:description" content="Primer Festival Universitario de Piccolo Nadia Guenet, piccolo; Svetlana Logounova, piano; Víctor Contreras, batería Sonata para flauta y piano no. 1 de Devienne, Joueurs de flûte de Roussel, Le merle noir de Messiaen, Sonata Arpeggione de Schubert y Baroque and Blue de Bolling Anfiteatro Simón&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/primer-festival-universitario-de-piccolo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-04T18:48:04+00:00" />
+<meta property="article:modified_time" content="2015-06-12T18:46:51+00:00" />
+<meta property="og:updated_time" content="2015-06-12T18:46:51+00:00" />

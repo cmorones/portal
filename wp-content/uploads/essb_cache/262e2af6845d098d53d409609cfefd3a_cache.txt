@@ -1,0 +1,6 @@
+<meta property="og:title" content="Jóvenes Talentos" />
+<meta property="og:description" content="Jóvenes Talentos Cuarteto Pollock:Alejandro Serna, violín; Abraham Torres, violín; Mauricio Alvarado, viola; Rodolfo Jiménez, violonchelo Cuarteto no. 21 de Mozart, Cuarteto no. 1 de Gutiérrez Heras y Cuarteto no. 1 de Villa-Lobos Sala Carlos Chávez 18:00 horas Entrada libre (cupo limitado al &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/jovenes-talentos-11/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-05T18:32:06+00:00" />

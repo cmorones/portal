@@ -1,0 +1,8 @@
+<meta property="og:title" content="Ciclo Mujeres en la Música" />
+<meta property="og:description" content="Ciclo Mujeres en la Música Trío de Percusiones Barra Libre:Kaoru Miyasaka, Maribel Pedraza y Gabriela Orta, percusiones Trazos de luz de A. Sánchez, Trough the Looking Glass de J. Dávila, Three de M. E. Childs, The S Dance de I. Bilic, UFO: Crash Landing de M. Finkelmeier y Bésame mucho de C. V&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ciclo-mujeres-en-la-musica-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-31T19:08:56+00:00" />
+<meta property="article:modified_time" content="2017-02-15T17:08:48+00:00" />
+<meta property="og:updated_time" content="2017-02-15T17:08:48+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="Este fin de semana comienza la primera edición 2017 de  Música Contemporánea en el MUAC" />
+<meta property="og:description" content="&nbsp; Los conciertos son una colaboración entre la Dirección General de Música y el MUAC Seis presentaciones entre el 11 de marzo y el 03 de junio El ciclo de Música Contemporánea en el MUAC se está convirtiendo en una tradición que congrega a multitudes de jóvenes bajo la fascinación de n&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/este-fin-de-semana-comienza-la-primera-edicion-2017-de-musica-contemporanea-en-el-muac/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-03-08T11:16:50+00:00" />

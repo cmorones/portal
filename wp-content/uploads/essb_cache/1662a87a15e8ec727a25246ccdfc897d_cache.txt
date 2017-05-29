@@ -1,0 +1,6 @@
+<meta property="og:title" content="La música Vive en la Universidad" />
+<meta property="og:description" content="Música en Territorio PumaLa música Vive en la Universidad Balajú:Efrén M. Cruz, guitarra y canto; Ignacio González, guitarra (leona) y canto; Antonio E. Pérez, jarana, percusiones y canto; Luis Ramírez, arpa, jarana y canto El Balajú, La guacamaya, El pájaro cú, El toro Zacamandú, El páj&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/la-musica-vive-en-la-universidad-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-31T19:07:26+00:00" />

@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="En 2016 la OFUNAM continúa su año de celebración con gran diversidad musical" />
+<meta property="og:description" content="  Seis programas fuera de temporada en septiembre, octubre y noviembre | Sala Nezahualcóyotl La Orquesta Filarmónica de la UNAM continúa los conciertos de celebración por sus 80 años. Ofrecerá seis programas fuera de temporada con diversas temáticas como la Conmemoración por el Exilio Argen&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/en-2016-la-ofunam-continua-su-ano-de-celebracion-con-gran-diversidad-musical-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-05T19:34:22+00:00" />

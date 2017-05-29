@@ -1,0 +1,8 @@
+<meta property="og:title" content="Convocatoria Academia de Música Antigua UNAM" />
+<meta property="og:description" content="Descargar ficha de inscripción en tu computadora*Completar formulario en Acrobat   La Coordinación de Difusión Cultural de la UNAM, a través de la Dirección General de Música y la Academia de Música Antigua, convoca a jóvenes músicos a participar en el proceso abierto de audición para ocu&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/convocatoria-academia-de-musica-antigua-unam/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-29T11:32:48+00:00" />
+<meta property="article:modified_time" content="2017-05-11T10:37:28+00:00" />
+<meta property="og:updated_time" content="2017-05-11T10:37:28+00:00" />

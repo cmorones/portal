@@ -1,0 +1,8 @@
+<meta property="og:title" content="Recital de viola, clarinete y piano" />
+<meta property="og:description" content="Música de Cámara Chinguiz Mamedov, viola; Austreberto Méndez, clarinete; Wojciech Nycz, piano Preludio y tema con variaciones de la Suite no. 5 de Händel, Cuentos de hadas op. 132 de Schumann y Trío para clarinete, viola y piano op. 264 de Reinecke Sala Carlos Chávez 18:00 horas       �&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-viola-clarinete-y-piano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-06T18:15:56+00:00" />
+<meta property="article:modified_time" content="2017-05-23T11:22:01+00:00" />
+<meta property="og:updated_time" content="2017-05-23T11:22:01+00:00" />

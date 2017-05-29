@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="MÚSICA DE CÁMARA &#8211; Obras de Purcell, Monteverdi, Händel y Mozart" />
+<meta property="og:description" content="Domingo 11 de octubre / 18:00 horas Sala Carlos Chávez La Dirección General de Música de la UNAM dentro del ciclo permanente de Música de Cámara, organiza un recital con la soprano Lourdes Ambriz, el contratenor Iván López Reynoso y el pianista Sergio Vázquez, el próximo domingo 11 de octub&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-obras-de-purcell-monteverdi-handel-y-mozart/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-05T11:55:49+00:00" />

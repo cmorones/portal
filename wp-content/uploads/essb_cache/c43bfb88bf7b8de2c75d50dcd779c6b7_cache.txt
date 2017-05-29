@@ -1,0 +1,8 @@
+<meta property="og:title" content="Festival Internacional de Piano" />
+<meta property="og:description" content="Festival Internacional de Piano Javier Perianes, piano (España) Sonata para piano no. 13 y Tres piezas para piano D 946 de Schubert, selección del Primer libro de preludios de Debussy y Fantasía Bética de Falla Sala Nezahualcóyotl 20:30 horas $150 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/festival-internacional-de-piano-7/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-05T19:59:22+00:00" />
+<meta property="article:modified_time" content="2017-01-25T16:43:30+00:00" />
+<meta property="og:updated_time" content="2017-01-25T16:43:30+00:00" />

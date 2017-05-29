@@ -1,0 +1,6 @@
+<meta property="og:title" content="Ciclo de Música Antigua" />
+<meta property="og:description" content="Ciclo de Música AntiguaBosques umbrosos In domo ad cor:Rami Martínez, barítono; Alfonso Soria, violín barroco; Miguel Montes, clavecín; Fernando Zapata, guitarra barroca; Mario Salinas, viola da gamba Sonata en trío op. 37 de Boismortier, Motetes anónimos del Archivo de las misiones de Chiqui&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ciclo-de-musica-antigua/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-05-08T19:44:58+00:00" />

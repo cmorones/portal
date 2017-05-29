@@ -1,0 +1,6 @@
+<meta property="og:title" content="Rueda de Prensa Ciclo MUAC" />
+<meta property="og:description" content="INVITACIÓN A PERIODISTAS Y REPORTEROS GRÁFICOS La Dirección General de Música de la UNAM y el Museo Universitario Arte Contemporáneo, con motivo del Primer Ciclo de Música Contemporánea en el MUAC, se complacen en invitarlos cordialmente a la conferencia de prensa que se llevará a cabo el pr&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/rueda-de-prensa-ciclo-muac/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-08-19T12:41:30+00:00" />

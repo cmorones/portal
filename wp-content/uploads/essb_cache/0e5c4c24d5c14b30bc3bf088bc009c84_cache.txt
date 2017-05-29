@@ -1,0 +1,8 @@
+<meta property="og:title" content="Ciclo Dúos de Piano" />
+<meta property="og:description" content="Ciclo Dúos de PianoDúo de Piano Guevara-Zhelezova: Citlalli Guevara, piano; Slavina Zhelezova, piano Mamá la Oca de Ravel, Seis piezas op. 11 de Rachmaninov, Danzón no. 2 de Márquez y Muerte del ángel, Milonga del ángel, Libertango y Le grand tango de Piazzolla Anfiteatro Simón Bolívar 12:0&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ciclo-duos-de-piano-5/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-06T18:05:41+00:00" />
+<meta property="article:modified_time" content="2017-05-23T11:21:24+00:00" />
+<meta property="og:updated_time" content="2017-05-23T11:21:24+00:00" />

@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Ciclo de Voz y Piano &#8211; Recital ¡Gitana! Con la mezzosoprano Amelia Sierra y el pianista James Demster" />
+<meta property="og:description" content="&nbsp; Domingo 18 de septiembre / 18:00 horas Sala Carlos Chávez La Dirección General de Música de la UNAM, dentro del Ciclo de Voz y Piano organiza el recital ¡Gitana! con la participación de la mezzosoprano Amelia Sierra y el pianista James Demster el próximo domingo 18 de septiembre a las 1&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ciclo-de-voz-y-piano-recital-gitana-con-la-mezzosoprano-amelia-sierra-y-el-pianista-james-demster/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-12T10:56:35+00:00" />

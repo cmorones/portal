@@ -1,0 +1,8 @@
+<meta property="og:title" content="La OJUEM es dirigida por Avi Ostrowsky e interpreta obras de Mozart y Schubert" />
+<meta property="og:description" content="  Participa como solista Luis Antonio Medel en la flauta Domingo 11 de diciembre / Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata de la UNAM llevará a cabo el sexto programa de su temporada de conciertos de Otoño el domingo 11 de diciembre en la Sala Nezahualcóyotl del Centr&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ojuem-es-dirigida-por-avi-ostrowski-e-interpreta-obras-de-mozart-y-schubert/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-12-05T18:23:22+00:00" />
+<meta property="article:modified_time" content="2016-12-06T10:35:00+00:00" />
+<meta property="og:updated_time" content="2016-12-06T10:35:00+00:00" />

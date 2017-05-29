@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Horacio Franco, flauta de pico" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/archivo-de-fotos/horacio-franco-flauta-de-pico/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-11-17T11:27:16+00:00" />
+<meta property="article:modified_time" content="2016-04-27T15:15:01+00:00" />
+<meta property="og:updated_time" content="2016-04-27T15:15:01+00:00" />

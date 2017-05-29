@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música Contemporánea en el MUAC" />
+<meta property="og:description" content="&nbsp; Colaboran la Dirección General de Música y el MUAC Siete conciertos del 27 de agosto al 19 de noviembre La Dirección General de Música de la UNAM (DGM) en colaboración con el Museo Universitario Arte Contemporáneo (MUAC) promueven el primer ciclo de Música Contemporánea con destacados&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-contemporanea-en-el-muac/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-08-19T12:48:53+00:00" />

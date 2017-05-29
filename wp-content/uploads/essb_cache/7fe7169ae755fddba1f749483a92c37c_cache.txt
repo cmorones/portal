@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Concierto &#8211; XXXVII Foro Internacional de Música Nueva Manuel Enríquez" />
+<meta property="og:description" content="ConciertoXXXVII Foro Internacional de Música Nueva Manuel Enríquez Trío Morelia:Ludwig Carrasco Curíntzita, violín; Irene Carrasco Curíntzita, violonchelo; Laura Carrasco Curíntzita, pianoInvitado: Ricardo de la Torre, piano Calma de R. Humet, Seis preludios para piano de M. Bertrán, Bulerí&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-xxxvii-foro-internacional-de-musica-nueva-manuel-enriquez/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-05-05T15:50:57+00:00" />
+<meta property="article:modified_time" content="2015-05-05T15:52:57+00:00" />
+<meta property="og:updated_time" content="2015-05-05T15:52:57+00:00" />

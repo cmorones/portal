@@ -1,0 +1,8 @@
+<meta property="og:title" content="Ciclo Dúos de Piano" />
+<meta property="og:description" content="Ciclo Dúos de PianoConcierto para 20 dedos De-dos Piano Dúo:Julia Valero, piano; Cecilia Cirión, piano Fantasía D 940 de Schubert, Seis piezas op. 11 de Rachmaninov, Tangata de Piazzolla, Scaramouche de Milhaud, Gitanerías y Malagueña de Lecuona y Danza del sable de Khachaturian Anfiteatro Sim&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ciclo-duos-de-piano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-06T17:32:26+00:00" />
+<meta property="article:modified_time" content="2017-04-26T15:59:04+00:00" />
+<meta property="og:updated_time" content="2017-04-26T15:59:04+00:00" />

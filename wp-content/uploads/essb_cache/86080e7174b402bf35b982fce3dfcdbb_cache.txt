@@ -1,0 +1,8 @@
+<meta property="og:title" content="Jóvenes Talentos &#8211; Recital Fonometrías concierto para saxofón y medios electrónicos" />
+<meta property="og:description" content="&nbsp; Participan Boglárka Nagy y Esteban Chapela Sábado 24 de septiembre / Entrada libre La Dirección General de Música de la UNAM dentro del ciclo Jóvenes Talentos, organiza el recital Fonometrías con Boglárka Nagy en el saxofón y Esteban Chapela en medios electrónicos. Se llevará a cabo&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/jovenes-talentos-recital-fonometrias-concierto-para-saxofon-y-medios-electronicos/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-19T19:15:53+00:00" />
+<meta property="article:modified_time" content="2016-09-19T20:07:26+00:00" />
+<meta property="og:updated_time" content="2016-09-19T20:07:26+00:00" />

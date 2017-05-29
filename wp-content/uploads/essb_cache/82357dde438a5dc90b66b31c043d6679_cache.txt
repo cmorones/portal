@@ -1,0 +1,8 @@
+<meta property="og:title" content="Recital de flauta y arpa" />
+<meta property="og:description" content="Música de Cámara Alethia Lozano, flauta; Janet Paulus, arpa Sonata BWV 1020 de Bach, Cinco pequeños duetos de Françaix, Sonata op. 56 *de Lowell Liebermann, Flower Pieces de Roberto Sierra y Swing no. 1 de Jacques Bondon Sala Carlos Chávez 18:00 horas                      &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-flauta-y-arpa/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-26T15:07:40+00:00" />
+<meta property="article:modified_time" content="2017-05-23T11:25:14+00:00" />
+<meta property="og:updated_time" content="2017-05-23T11:25:14+00:00" />

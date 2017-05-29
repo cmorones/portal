@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto Intersemestral del Programa Coral Universitario" />
+<meta property="og:description" content="&nbsp; Domingo 03 de julio / 18:00 horas en la Sala Nezahualcóyotl Participan coros de Facultades y FES de la UNAM La Dirección General de Música de la UNAM dentro del ciclo permanente del Programa Coral Universitario organiza su Concierto Intersemestral. Tendrá lugar el próximo domingo 3 de ju&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-intersemestral-del-programa-coral-universitario/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-06-27T14:47:35+00:00" />
+<meta property="article:modified_time" content="2016-06-28T14:38:42+00:00" />
+<meta property="og:updated_time" content="2016-06-28T14:38:42+00:00" />

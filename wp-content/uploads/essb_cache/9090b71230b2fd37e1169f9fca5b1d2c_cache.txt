@@ -1,0 +1,6 @@
+<meta property="og:title" content="Ensamble Escénico Vocal" />
+<meta property="og:description" content="Canciones de amor Ensamble Escénico VocalEduardo García Barrios, maestro-director; Lizbeth Ochoa, soprano; César Castro, bajo; David Gómez, barítono; Sergio Vázquez, piano Obras de R. Strauss, Schubert, Rachmaninov, Fauré, H. Wolf, Chaikovski y Brahms Sala Carlos Chávez 18:00 horas Entrada l&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ensamble-escenico-vocal/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-02-21T15:22:47+00:00" />

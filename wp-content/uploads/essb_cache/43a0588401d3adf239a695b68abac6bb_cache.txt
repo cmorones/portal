@@ -1,0 +1,6 @@
+<meta property="og:title" content="Presencia de la Facultad de Música" />
+<meta property="og:description" content="Presencia de la Facultad de Música Inner Pulse Ensamble:Samuel Pascoe, director invitado; Teresa Navarro, soprano; Omar Castro, flauta; Luis Mora, clarinete; Rafael Ancheta, trompeta; Leonardo Chávez, violín; Alena Stryuchkova, viola; Roxana Mendoza, violonchelo; Mauricio Ramos, piano; Vladimir I&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/presencia-de-la-facultad-de-musica-9/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-06T17:20:11+00:00" />

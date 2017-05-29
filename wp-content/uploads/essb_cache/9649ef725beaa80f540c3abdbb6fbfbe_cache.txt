@@ -1,0 +1,6 @@
+<meta property="og:title" content="Recital de clarinete y piano" />
+<meta property="og:description" content="Presencia de la Facultad de Música Luis Humberto Ramos, clarinete; Cecilia Cirión, piano Adelaide de Beethoven, Sonata op. 120 no. 2 de Brahms, Sonata de Leonardo Coral, Sonatina de Joseph Horovitz y Danzón no. 5 de Márquez Sala Carlos Chávez 18:00 horas                    �&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-clarinete-y-piano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-06T17:52:11+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="Ciclo Mujeres en la Música" />
+<meta property="og:description" content="Ciclo Mujeres en la MúsicaXXI Encuentro Internacional – XVII Iberoamericano de Mujeres en el Arte Yolotli. Coro de Mujeres de los Pueblos Indígenas de México: Leticia Armijo, directora Obras de D. Syrse, J. Buenagu, L. Armijo y canciones en idiomas de los pueblos originarios de México Sala Car&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ciclo-mujeres-en-la-musica/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-31T18:36:46+00:00" />

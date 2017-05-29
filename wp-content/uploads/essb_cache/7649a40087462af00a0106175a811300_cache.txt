@@ -1,0 +1,8 @@
+<meta property="og:title" content="Jazz, Tangos y Ritmos Latinoamericanos &#8211; Jazz entre amigos" />
+<meta property="og:description" content="Música de CámaraJazz, Tangos y Ritmos LatinoamericanosJazz entre amigos Alex Mercado, piano; Joe d’Etienne, trompeta y piano; Roberto Aymes, contrabajo y piano Memories of Tomorrow de K. Jarrett, Speak Low de K. Weill, Naima-Giant Steps de J. Coltrane, The Nearness of You de H. Carmichael y Five&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/jazz-tangos-y-ritmos-latinoamericanos-jazz-entre-amigos/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-09T13:01:35+00:00" />
+<meta property="article:modified_time" content="2017-01-25T16:37:06+00:00" />
+<meta property="og:updated_time" content="2017-01-25T16:37:06+00:00" />

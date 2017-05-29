@@ -1,0 +1,8 @@
+<meta property="og:title" content="AUDITORIO MUAC &#8211; Museo Universitario Arte Contemporáneo" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/taquillas/auditorio-muac-museo-universitario-arte-contemporaneo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-12-13T17:44:04+00:00" />
+<meta property="article:modified_time" content="2016-12-13T18:02:29+00:00" />
+<meta property="og:updated_time" content="2016-12-13T18:02:29+00:00" />

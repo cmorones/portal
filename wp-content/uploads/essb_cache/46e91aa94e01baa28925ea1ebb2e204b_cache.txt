@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM Concierto 1 de Primavera" />
+<meta property="og:description" content="OJUEM Concierto 1 de PrimaveraOrquesta Juvenil Universitaria Eduardo Mata de la UNAM Iván López Reynoso, director huésped; Víctor Manuel Morales, órgano Sinfonietta de Moncayo, Concertino para órgano de Bernal Jiménez y Sinfonía no. 9 Del Nuevo Mundo de Dvorák Sala Nezahualcóyotl 18:00 hor&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-1-de-primavera-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-03-09T18:48:36+00:00" />

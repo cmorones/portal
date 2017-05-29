@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Música de Cámara &#8211; Samuel Máynez y José Enrique Guzmán" />
+<meta property="og:description" content="Música de Cámara Samuel Máynez, violín; José Enrique Guzmán, arpa Sonata para violín de Leclair, Fantasía para violín y arpa de Saint-Saëns, Menuet de la Petite suite de Debussy, Danza amorosa de F. Villanueva, Hoja de álbum para violín y arpa de J. Carrillo, Tres piezas de S. Máynez, &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/musica-de-camara-samuel-maynez-y-jose-enrique-guzman/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-02T14:11:53+00:00" />
+<meta property="article:modified_time" content="2015-06-12T18:11:29+00:00" />
+<meta property="og:updated_time" content="2015-06-12T18:11:29+00:00" />

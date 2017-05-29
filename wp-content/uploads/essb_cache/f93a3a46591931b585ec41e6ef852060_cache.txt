@@ -1,0 +1,8 @@
+<meta property="og:title" content="A Todas Partes con la OJUEM" />
+<meta property="og:description" content="A Todas Partes con la OJUEMOrquesta Juvenil Universitaria Eduardo Mata de la UNAM Gustavo Rivero Weber, director artístico; Horacio Franco, flauta Finlandia de Sibelius, Concierto para flauta de Wolpe, Danza macabra de Saint-Säens, selecciones de Carmen de Bizet y Obertura 1812 de Tchaikovsky Anfi&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/a-todas-partes-con-la-ojuem-4/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-05T18:04:12+00:00" />
+<meta property="article:modified_time" content="2017-01-25T15:41:33+00:00" />
+<meta property="og:updated_time" content="2017-01-25T15:41:33+00:00" />

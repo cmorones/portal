@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="La OFUNAM comienza su Tercera Temporada de conciertos 2016" />
+<meta property="og:description" content="&nbsp; Se interpretan las sinfonías no. 1 y no. 2 de Beethoven 08 y 09 de octubre / Sala Nezahualcóyotl  La Orquesta Filarmónica de la UNAM comenzará los conciertos de la Tercera Temporada 2016, en la que interpretará las nueve sinfonías de Beethoven. Dirigirá a la orquesta Jorge Mester y se&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ofunam-comienza-su-tercera-temporada-de-conciertos-2016/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-03T17:37:09+00:00" />
+<meta property="article:modified_time" content="2016-10-10T17:36:13+00:00" />
+<meta property="og:updated_time" content="2016-10-10T17:36:13+00:00" />

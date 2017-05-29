@@ -1,0 +1,8 @@
+<meta property="og:title" content="Programa Coral Universitario" />
+<meta property="og:description" content="Programa Coral Universitario Coro Universitario Estudiantil Staccato Marco A. Ugalde, director Tangueando de O. Escalada, Tres epitafios de R. Halffter, Salmo 150 de E. Aguiar, Daemon irrepit callidus de G. Orbán, Other Plans de L. Young, Oblivion, Verano porteño, Otoño porteño, Adiós Nonino, B&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/programa-coral-universitario-13/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-09T14:15:12+00:00" />
+<meta property="article:modified_time" content="2017-01-25T16:33:12+00:00" />
+<meta property="og:updated_time" content="2017-01-25T16:33:12+00:00" />

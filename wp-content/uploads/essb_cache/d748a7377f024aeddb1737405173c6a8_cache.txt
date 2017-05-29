@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Concierto &#8211; Orquesta Sinfónica de Yucatán" />
+<meta property="og:description" content="Concierto Orquesta Sinfónica de Yucatán   Juan Carlos Lomónaco, director titular; Jorge Federico Osorio, piano   Concierto para piano no. 5 Emperador de Beethoven y Sinfonía no. 1 Titán de Mahler   Sala Nezahualcóyotl 20:30 horas Entrada libre (cupo limitado al aforo de la sala) Programa su&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-orquesta-sinfonica-de-yucatan/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-05-05T15:09:16+00:00" />
+<meta property="article:modified_time" content="2015-05-05T15:12:53+00:00" />
+<meta property="og:updated_time" content="2015-05-05T15:12:53+00:00" />

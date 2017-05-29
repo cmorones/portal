@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto Internacional (Estados Unidos)" />
+<meta property="og:description" content="Concierto Internacional (Estados Unidos)NICO Núcleo Integral de Composición Jeff Zeigler, violonchelo eléctrico y electrónica Rush de Antonio Flores Castro, Cenizas en los Apalaches de David Lemus Chale, Hanging from a Fragile String de José de la Parra, Subliminal de Salvador Govea, Birth of a&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-estados-unidos-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-06T19:16:45+00:00" />
+<meta property="article:modified_time" content="2017-04-17T16:37:06+00:00" />
+<meta property="og:updated_time" content="2017-04-17T16:37:06+00:00" />

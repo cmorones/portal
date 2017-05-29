@@ -1,0 +1,8 @@
+<meta property="og:title" content="Jazz, Tangos y Ritmos Latinoamericanos &#8211; Mole RGB" />
+<meta property="og:description" content="Concierto Metales M5:Alexander Freund, trompeta; Óscar Villegas, trompeta; Juan Carlos Quiterio, corno; José López, tuba;  Roberto Carlos Cruz, trombón Obras y arreglos para ensamble de metales de Händel, Bach, Mozart, Piazzolla, McKee y Bernstein, entre otros Sala Nezahualcóyotl 18:00 horas&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/jazz-tangos-y-ritmos-latinoamericanos-mole-rgb-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-05-05T16:01:41+00:00" />
+<meta property="article:modified_time" content="2015-05-05T16:03:02+00:00" />
+<meta property="og:updated_time" content="2015-05-05T16:03:02+00:00" />

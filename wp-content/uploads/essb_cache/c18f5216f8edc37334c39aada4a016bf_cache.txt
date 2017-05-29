@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música de Cámara &#8211; Recital de piano con Héctor Rosete en el marco del 5º Festival ¡en contacto contigo!" />
+<meta property="og:description" content="  Música de Bach, Beethoven, Chopin y Ravel, entre otros Sábado 12 de noviembre / Sala Carlos Chávez La Dirección General de Música de la UNAM en el marco del 5º Festival ¡en contacto contigo! organiza el recital de piano con Héctor Rosete el próximo sábado 12 de noviembre en la Sala Carl&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-recital-de-piano-con-hector-rosete-en-el-marco-del-5o-festival-en-contacto-contigo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-11-07T18:23:19+00:00" />

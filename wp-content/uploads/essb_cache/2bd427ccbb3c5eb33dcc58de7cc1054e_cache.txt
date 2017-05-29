@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto del Programa Coral Universitario" />
+<meta property="og:description" content="&nbsp; Sábado 19 de noviembre / Anfiteatro Simón Bolívar Participan coros de la Facultad de Ciencias y Filosofía y Letras La Dirección General de Música de la UNAM dentro del Programa Coral Universitario organiza el concierto de los coros de la Facultad de Ciencias y la Facultad de Filosofía &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-del-programa-coral-universitario-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-11-15T12:54:47+00:00" />

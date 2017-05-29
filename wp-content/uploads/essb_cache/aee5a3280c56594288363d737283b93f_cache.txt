@@ -1,0 +1,8 @@
+<meta property="og:title" content="Jazz, Tangos y Ritmos Latinoamericanos &#8211; El trío Identidad Musical lleva a cabo recital con música del compositor mexicano Manuel M. Ponce" />
+<meta property="og:description" content="&nbsp; Se presenta el domingo 22 de enero a las 12:00 horas en el Anfiteatro Simón Bolívar La Dirección de Música de la UNAM dentro del ciclo permanente de Jazz, Tangos y Ritmos Latinoamericanos, organiza el recital del trío Identidad Musical, con la participación de Abraham Barrera en el pian&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/jazz-tangos-y-ritmos-latinoamericanos-el-trio-identidad-musical-lleva-a-cabo-recital-con-musica-del-compositor-mexicano-manuel-m-ponce/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-17T12:30:06+00:00" />
+<meta property="article:modified_time" content="2017-01-19T12:37:50+00:00" />
+<meta property="og:updated_time" content="2017-01-19T12:37:50+00:00" />
