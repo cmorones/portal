@@ -1,0 +1,8 @@
+<meta property="og:title" content="FILUNI Feria Internacional del Libro Universitario UNAM" />
+<meta property="og:description" content="FILUNI Feria Internacional del Libro Universitario UNAMConferenciaCaracterísticas e historia de la música en la Universidad de Salamanca de 1738 a 1801 Bernardo García Bernalt, expositor Facultad de Música 10:30 horas Entrada libre (cupo limitado al aforo del recinto) Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/primera-feria-internacional-del-libro-universitario-filuni-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-06-13T16:02:02+00:00" />
+<meta property="article:modified_time" content="2017-06-19T16:56:54+00:00" />
+<meta property="og:updated_time" content="2017-06-19T16:56:54+00:00" />

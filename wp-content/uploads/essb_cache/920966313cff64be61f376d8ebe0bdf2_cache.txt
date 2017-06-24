@@ -1,6 +1,1 @@
-<meta property="og:title" content="La OFUNAM interpretará la séptima sinfonía de Bruckner bajo la dirección huésped del francés Sylvain Gasançon" />
-<meta property="og:description" content="&nbsp; Sábado 28 y domingo 29 de enero en la Sala Nezahualcóyotl La Primera Temporada de conciertos 2017 de la Orquesta Filarmónica de la UNAM, continúa con la dirección huésped de Sylvain Gasançon, ganador del Premio Internacional Eduardo Mata de Dirección Orquestal realizado en la Sala Nez&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/boletin/la-ofunam-interpretara-la-septima-sinfonia-de-bruckner-bajo-la-direccion-huesped-del-frances-sylvain-gasancon/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2017-01-24T12:30:10+00:00" />
+<meta property="og:type" content="website" />

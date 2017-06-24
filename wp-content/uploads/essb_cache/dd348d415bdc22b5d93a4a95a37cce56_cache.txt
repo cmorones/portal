@@ -1,0 +1,6 @@
+<meta property="og:title" content="Tercer Festival Internacional de Piccolo" />
+<meta property="og:description" content="Tercer Festival Internacional de Piccolo Cuarteto Redes:Ekaterine Martínez Bourguet, violín; Teodoro Gálvez, violín; Érika Ramírez, viola; Carlos Castañeda, violoncheloInvitada: Nadia Guenet, piccolo Cuarteto para cuerdas op. 76 no. 4 Aurora de Haydn, Cuarteto para piccolo y cuerdas no. 1 de &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/tercer-festival-internacional-de-piccolo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-06-16T18:04:10+00:00" />

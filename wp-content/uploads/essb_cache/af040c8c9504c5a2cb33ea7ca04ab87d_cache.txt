@@ -1,8 +1,8 @@
-<meta property="og:title" content="OFUNAM Convocatoria Clarinete Principal. Versión completa" />
-<meta property="og:description" content="1. Video Proceso de PreselecciónLista de fragmentos a interpretar y partichelas 2. Audición Proceso de SelecciónLista de fragmentos a interpretar y partichelas Formato de inscripción                                                                       La Coord&hellip;" />
+<meta property="og:title" content="OFUNAM Convocatoria Clarinete Principal. Información exclusiva para los músicos preseleccionados que tienen derecho a la audición presencial" />
+<meta property="og:description" content="Audición Proceso de SelecciónLista de fragmentos a interpretar y partichelas Formato de inscripción                                                                       La Coordinación de Difusión Cultural y la Dirección General de Música, a través de la O&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/ofunam-convocatoria-clarinete-principal-version-completa/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-05-05T17:51:20+00:00" />
-<meta property="article:modified_time" content="2017-05-08T13:22:46+00:00" />
-<meta property="og:updated_time" content="2017-05-08T13:22:46+00:00" />
+<meta property="article:modified_time" content="2017-06-21T15:16:32+00:00" />
+<meta property="og:updated_time" content="2017-06-21T15:16:32+00:00" />

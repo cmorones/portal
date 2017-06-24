@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="OJUEM inicia temporada de conciertos con música de Brahms y Tchaikovsky" />
+<meta property="og:description" content="&nbsp; Dirige a la orquesta Enrique Bátiz con los solistas Luis Vital y Asaf Kolerstein Domingo 04 de septiembre / 18:00 horas en la Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata de la UNAM inicia su temporada de Conciertos de Otoño bajo la guía del director huésped Enrique&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ojuem-inicia-temporada-de-conciertos-con-musica-de-brahms-y-tchaikovsky/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-08-29T15:37:47+00:00" />
+<meta property="article:modified_time" content="2016-08-30T23:14:02+00:00" />
+<meta property="og:updated_time" content="2016-08-30T23:14:02+00:00" />
