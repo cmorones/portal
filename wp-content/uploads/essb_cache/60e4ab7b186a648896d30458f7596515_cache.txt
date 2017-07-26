@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="La OJUEM en el Concierto inaugural del Segundo Festival Internacional de Piccolo  26 de junio en la Sala Nezahualcóyotl" />
+<meta property="og:description" content="  La Orquesta Juvenil Universitaria Eduardo Mata de la UNAM, concluye sus Conciertos de Primavera en el marco de la inauguración del Segundo Festival Internacional de Piccolo. La orquesta actuará bajo la batuta de la directora huésped Anna Skryleva y contará con la participación solista de Vir&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ojuem-en-el-concierto-inaugural-del-segundo-festival-internacional-de-piccolo-26-de-junio-en-la-sala-nezahualcoyotl-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-06-20T13:32:46+00:00" />

@@ -1,6 +1,1 @@
-<meta property="og:title" content="OFUNAM Fuera de temporada &#8211; Charla introductoria de Gerardo Kleinburg" />
-<meta property="og:description" content="OFUNAM Fuera de temporadaCharla introductoria de Gerardo Kleinburg Ópera Tosca en concierto Sala Nezahualcóyotl 11:00 horas Acceso con el boleto de entrada al concierto Programa sujeto a cambios&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/events/ofunam-fuera-de-temporada-charla-introductoria-de-gerardo-kleinburg-2/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2016-06-28T15:33:03+00:00" />
+<meta property="og:type" content="website" />

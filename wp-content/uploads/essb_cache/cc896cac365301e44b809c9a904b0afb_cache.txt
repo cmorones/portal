@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Jazz, Tangos y Ritmos Latinoamericanos &#8211; Dueto Beaujean-García" />
+<meta property="og:description" content="&nbsp; Domingo 29 de mayo / 12:00 horas Anfiteatro Simón Bolívar La Dirección General de Música de la UNAM dentro del ciclo Jazz, Tangos y Ritmos Latinoamericanos, organiza el concierto con el dueto Beaujean-García el domingo 29 de mayo en el Anfiteatro Simón Bolívar del Antiguo Colegio de Sa&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/jazz-tangos-y-ritmos-latinoamericanos-dueto-beaujean-garcia/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-05-23T13:03:59+00:00" />

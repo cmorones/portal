@@ -1,0 +1,8 @@
+<meta property="og:title" content="OFUNAM Fuera de Temporada" />
+<meta property="og:description" content="OFUNAM Fuera de Temporada Celebración por los 25 Años de Relaciones Diplomáticas entre México y Armenia Rodrigo Sierra Moncayo, director huésped; Ani Atayan, piano; Armen Babakhanian, piano Adagio de Spartacus de Khachaturian, Suite 1910 de Manuel Esperón, Concertino para piano de Alexander&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ofunam/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-06-13T16:42:57+00:00" />
+<meta property="article:modified_time" content="2017-06-27T13:14:37+00:00" />
+<meta property="og:updated_time" content="2017-06-27T13:14:37+00:00" />

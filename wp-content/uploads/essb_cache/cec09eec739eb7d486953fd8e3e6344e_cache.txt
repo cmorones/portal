@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Sylvain Gasançon y Wonmi Kim con la OFUNAM" />
+<meta property="og:description" content="  Ensayo abierto 23 de enero / 10:00 horas Sala Nezahualcóyotl / 23 y 24 de enero La Orquesta Filarmónica de la UNAM llevará a cabo el segundo programa de la Primera Temporada 2016 bajo la batuta de Sylvain Gasançon y la participación de la pianista Wonmi Kim, se compondrá por Variaciones sob&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/sylvain-gasancon-y-wonmi-kim-con-la-ofunam/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-01-18T13:46:42+00:00" />
+<meta property="article:modified_time" content="2016-01-21T16:06:48+00:00" />
+<meta property="og:updated_time" content="2016-01-21T16:06:48+00:00" />

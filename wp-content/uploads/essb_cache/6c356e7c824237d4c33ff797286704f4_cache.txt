@@ -1,6 +1,1 @@
-<meta property="og:title" content="Turkkam Osman, violín" />
-<meta property="og:description" content="&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/archivo-de-fotos/turkkam-osman-violin/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2016-05-17T14:51:17+00:00" />
+<meta property="og:type" content="website" />

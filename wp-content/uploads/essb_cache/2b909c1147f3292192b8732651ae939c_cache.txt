@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Final del Taller de Interpretación Rossiniana" />
+<meta property="og:description" content="&nbsp; Sábado 27 de junio de 2015 / Sala Carlos Chávez La final del Taller de Interpretación Rossiniana se realizará el sábado 27 de junio a las 18:00 horas, en la Sala Carlos Chávez, donde los ganadores realizarán el recital de clausura.&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/final-del-taller-de-interpretacion-rossiniana/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-18T11:22:56+00:00" />

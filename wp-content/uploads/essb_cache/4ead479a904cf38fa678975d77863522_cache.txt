@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="La OFUNAM estrena el Concierto para oboe de James MacMillan como parte del Festival Universitario de Oboe" />
+<meta property="og:description" content="La orquesta será guiada por la directora huésped Catherine Larsen-Maguire y contará con la participación solista de Nigel Shore El programa tendrá un ensayo abierto el sábado 11 de marzo a las 10 horas. Los conciertos serán el sábado a las 20 horas y el domingo al mediodía La sexta edición&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ofunam-estrena-el-concierto-para-oboe-de-james-macmillan-como-parte-del-festival-universitario-de-oboe/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-03-06T13:41:03+00:00" />

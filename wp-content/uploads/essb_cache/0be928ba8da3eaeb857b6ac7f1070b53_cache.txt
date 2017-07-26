@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Programa Coral Universitario" />
+<meta property="og:description" content="Programa Coral Universitario Coro de la FES Iztacala: Luis Alberto Manzano, director; Coro de la Facultad de Ciencias Políticas y Sociales: Benjamín Martínez, director; Coro de la Unidad de Posgrado: Gabriela Franco, directora Facultad de MúsicaSala Xochipilli 18:00 horas Entrada libre (cupo lim&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/programa-coral-universitario-18/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-05-09T16:36:40+00:00" />

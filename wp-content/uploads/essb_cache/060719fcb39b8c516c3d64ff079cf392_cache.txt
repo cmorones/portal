@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="La OFUNAM finaliza su Segunda Temporada interpretando la Sinfonía Turangalîla de Olivier Messiaen" />
+<meta property="og:description" content="&nbsp; Sábado 25 y domingo 26 de junio / Sala Nezahualcóyotl Dirige Sylvain Gasançon con Duane Cochran y Nathalie Forget como solistas La Orquesta Filarmónica de la UNAM termina la Segunda Temporada bajo la batuta del director huésped Sylvain Gasançon y las participaciones solistas de Duane Co&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ofunam-finaliza-su-segunda-temporada-interpretando-la-sinfonia-turangalila-de-olivier-messiaen/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-06-20T13:29:50+00:00" />

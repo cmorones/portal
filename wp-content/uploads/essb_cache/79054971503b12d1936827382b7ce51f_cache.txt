@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Gala de Presentación de la Academia de Música Antigua de la UNAM AMA-UNAM" />
+<meta property="og:description" content="Gala de Presentación de la Academia de Música Antigua de la UNAM AMA-UNAMFILUNI Feria Internacional del Libro Universitario UNAMMúsica para una universidad festejante Pedro Gandía, director y concertino; Bernardo García Bernalt, director; Marta Infante, mezzosoprano; Coro Concierto Latinoameric&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/primera-feria-internacional-del-libro-universitario-filuni-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-06-13T16:08:30+00:00" />
+<meta property="article:modified_time" content="2017-06-21T11:32:06+00:00" />
+<meta property="og:updated_time" content="2017-06-21T11:32:06+00:00" />

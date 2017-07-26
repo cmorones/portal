@@ -1,0 +1,7 @@
+<meta property="og:title" content="BeverlyBrown" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/prensa/fotografias/beverlybrown/" />
+<meta property="og:image" content="http://musica.unam.mx/wp-content/uploads/2015/01/BeverlyBrown.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-29T12:57:32+00:00" />

@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="CONCIERTO INTERNACIONAL &#8211; Recital con el Coro de Madrigalistas de la Pontificia Universidad Católica del Perú" />
+<meta property="og:description" content="&nbsp; Interpretan obras de Monteverdi, Stanford y compositores peruanos Sábado 01 de octubre / Anfiteatro Simón Bolívar / Entrada libre La Dirección General de Música de la UNAM organiza el Concierto Internacional con el Coro de Madrigalistas de la Pontificia Universidad Católica del Perú el&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-internacional-recital-con-el-coro-de-madrigalistas-de-la-pontificia-universidad-catolica-del-peru/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-26T19:26:02+00:00" />

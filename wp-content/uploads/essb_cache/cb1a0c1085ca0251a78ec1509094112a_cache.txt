@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Temporada de Otoño en el Jardín Botánico con el Programa Coral Universitario" />
+<meta property="og:description" content="&nbsp; Se presenta el Coro Universitario Estudiantil Staccato Sábado 01 de octubre / Plazoleta del Jardín Botánico La Dirección General de Música de la UNAM en el marco de la Temporada de Otoño en el Jardín Botánico con el Programa Coral Universitario, organiza el concierto del Coro Universi&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/temporada-de-otono-en-el-jardin-botanico-con-el-programa-coral-universitario/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-26T17:10:41+00:00" />

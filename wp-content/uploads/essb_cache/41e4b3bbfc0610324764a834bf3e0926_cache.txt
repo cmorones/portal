@@ -1,0 +1,6 @@
+<meta property="og:title" content="Recital de violín y piano" />
+<meta property="og:description" content="Música de Cámara Joshué C. Morales, violín; Diego Ordax, piano Sonata para violín y piano no. 21 de Mozart, Sonata para violín y piano no. 5 Primavera de Beethoven y Sonata para violín y piano no. 3 de Brahms Sala Carlos Chávez 18:00 horas                          �&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-violin-y-piano-5/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-06-16T18:34:11+00:00" />

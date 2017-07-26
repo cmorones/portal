@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="La Orquesta Filarmónica de la UNAM realiza concierto en el marco de la Fiesta del Libro y la Rosa 2017 con lectura de poemas de Benito Taibo" />
+<meta property="og:description" content="&nbsp; Guía a la orquesta Iván López Reynoso y César Martínez Bourguet es solista al violonchelo Conciertos sábado 22 de abril 20 horas y domingo 23 de abril 12 horas El joven director Iván López Reynoso, será el encargado de reanudar las actividades musicales de la Orquesta Filarmónica de&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-orquesta-filarmonica-de-la-unam-realiza-concierto-en-el-marco-de-la-fiesta-del-libro-y-la-rosa-2017-con-lectura-de-poemas-de-benito-taibo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-18T13:17:54+00:00" />

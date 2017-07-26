@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Música Contemporánea en el MUAC &#8211; Recital del sexteto vocal femenino Túumben Paax" />
+<meta property="og:description" content="&nbsp; Se interpreta música de compositores mexicanos y extranjeros Sábado 27 de agosto / 12:30 horas en el Auditorio del MUAC La Dirección General de Música de la UNAM y el Museo Universitario Arte Contemporáneo MUAC organizan el concierto inaugural del Ciclo de Música Contemporánea con el e&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-contemporanea-en-el-muac-recital-del-sexteto-vocal-femenino-tuumben-paax/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-08-19T12:37:31+00:00" />

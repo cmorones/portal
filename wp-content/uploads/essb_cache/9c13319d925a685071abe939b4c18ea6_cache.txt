@@ -1,6 +1,1 @@
-<meta property="og:title" content="FIESTA DEL LIBRO Y LA ROSA 2016 &#8211; Concierto del Octeto de Violonchelos Eduardo Mata" />
-<meta property="og:description" content="&nbsp; Sábado 23 de abril / 18:00 horas Sala Carlos Chávez / Entrada libre  La Dirección de Música de la UNAM, en el marco de la Fiesta del Libro y la Rosa 2016, organiza el concierto del Octeto Violonchelos Eduardo Mata el próximo 23 de abril en la Sala Carlos Chávez. El programa estará com&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/boletin/fiesta-del-libro-y-la-rosa-2016-concierto-del-octeto-de-violonchelos-eduardo-mata/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2016-04-18T10:45:16+00:00" />
+<meta property="og:type" content="website" />

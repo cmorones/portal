@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Srba Dinic dirige a la OFUNAM con obras de Shostakovich y Mussorgsky" />
+<meta property="og:description" content="&nbsp; Conciertos sábado 23 y domingo 24 de abril Sala Nezahualcóyotl La Orquesta Filarmónica de la UNAM llevará a cabo el cuarto programa de la temporada bajo la batuta del director huésped Srba Dinic y la participación solista de Leticia Moreno en el violín, el próximo 23 y 24 de abril en &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/srba-dinic-dirige-a-la-ofunam-con-obras-de-shostakovich-y-mussorgsky-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-04-18T10:55:46+00:00" />
+<meta property="article:modified_time" content="2016-04-19T13:19:55+00:00" />
+<meta property="og:updated_time" content="2016-04-19T13:19:55+00:00" />

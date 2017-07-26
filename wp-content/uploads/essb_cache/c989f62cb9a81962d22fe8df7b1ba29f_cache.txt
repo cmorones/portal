@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Música de Cámara &#8211; Ensamble de piano de la Orquesta Escuela Carlos Chávez" />
+<meta property="og:description" content="  Domingo 8 de mayo / 12:00 horas Anfiteatro Simón Bolívar / Entrada libre  La Dirección General de Música de la UNAM dentro del ciclo permanente de Jóvenes Talentos, organiza el concierto del Ensamble de piano de la Orquesta Escuela Carlos Chávez con alumnos de Farizat Tchibirova. Se llevar&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-ensamble-de-piano-de-la-orquesta-escuela-carlos-chavez/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-05-02T12:00:37+00:00" />

@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="La música de la OFUNAM y la narración de Mario Iván Martínez celebran el día del niño con el programa «La música y los cuentos»" />
+<meta property="og:description" content="&nbsp; Alfredo Ibarra es director huésped y Héctor López participa como solista a la tuba Conciertos el sábado 29 de abril a las 18 horas y domingo 30 de abril a las 12 horas El programa La música y los cuentos será escuchado con música de la OFUNAM y la narración de Mario Iván Martínez, q&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-musica-de-la-ofunam-y-la-narracion-de-mario-ivan-martinez-celebran-el-dia-del-nino-con-el-programa-la-musica-y-los-cuentos/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-04-24T13:35:02+00:00" />

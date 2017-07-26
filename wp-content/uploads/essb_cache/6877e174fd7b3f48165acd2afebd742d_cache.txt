@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="PROGRAMA CONMEMORATIVO 80 AÑOS DE LA OFUNAM Y 40 DE LA SALA NEZAHUALCÓYOTL" />
+<meta property="og:description" content="&nbsp; Sala Nezahualcóyotl / 19 y 20 de marzo  La Orquesta Filarmónica de la UNAM llevará a cabo el Programa Conmemorativo de la Primera Temporada 2016 bajo la batuta del director huésped Bojan Sudjic y la participación solista de Vadim Repin en el violín, el próximo 19 y 20 de marzo en la S&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/programa-conmemorativo-80-anos-de-la-ofunam-y-40-de-la-sala-nezahualcoyotl/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-14T11:59:58+00:00" />

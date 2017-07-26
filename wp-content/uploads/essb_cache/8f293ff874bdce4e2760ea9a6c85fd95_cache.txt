@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="La OFUNAM interpreta la tercera sinfonía de Beethoven Heroica" />
+<meta property="og:description" content="&nbsp; Dirige a la orquesta Andrés Cárdenes y participa Pablo Garibay como solista 22 y 23 de octubre / Sala Nezahualcóyotl La Orquesta Filarmónica de la UNAM continúa con sus conciertos de la Tercera Temporada 2016, en los que se interpretarán las nueve sinfonías de Beethoven. Dirigirá a la&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ofunam-interpreta-la-tercera-sinfonia-de-beethoven-heroica/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-17T16:45:59+00:00" />

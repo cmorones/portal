@@ -1,8 +1,1 @@
-<meta property="og:title" content="Comienza el Festival Internacional de Piano en la UNAM" />
-<meta property="og:description" content="&nbsp; Del 01 al 26 de febrero en la Sala Nezahualcóyotl y Sala Carlos Chávez Se ofrecerán conciertos y clases magistrales con pianistas de prestigio internacional Realizado por iniciativa de la Dirección de Música de la UNAM, el Festival Internacional de Piano tiene como propósito dar al púb&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/boletin/comienza-el-festival-internacional-de-piano-en-la-unam/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2017-01-30T16:56:03+00:00" />
-<meta property="article:modified_time" content="2017-01-31T16:44:21+00:00" />
-<meta property="og:updated_time" content="2017-01-31T16:44:21+00:00" />
+<meta property="og:type" content="website" />

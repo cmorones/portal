@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Elim Chan actúa por primera vez al frente de la OFUNAM como su directora huésped principal" />
+<meta property="og:description" content="&nbsp; Conrad Tao es solista e interpretará el Concierto para piano de Gershwin, el programa de la orquesta se complementa con obras de Bernstein y Adams Conciertos sábado 27 de mayo 20 horas y domingo 28 de mayo 12 horas en la Sala Nezahualcóyotl La maestra Elim Chan dirigirá el fin de semana a&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/elim-chan-actua-por-primera-vez-al-frente-de-la-ofunam-como-su-directora-huesped-principal/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-05-24T15:01:49+00:00" />
+<meta property="article:modified_time" content="2017-05-25T14:13:54+00:00" />
+<meta property="og:updated_time" content="2017-05-25T14:13:54+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="Ciclo de Canto y Piano &#8211; Recital Sueños irreales con el barítono Ricardo López y el pianista Andrés Sarre" />
+<meta property="og:description" content="  Domingo 11 de septiembre / 18:00 horas Sala Carlos Chávez La Dirección General de Música de la UNAM, dentro del Ciclo de Canto y Piano organiza el recital Sueños irreales con la participación del barítono Ricardo López y el pianista André Sarre el próximo domingo 11 de septiembre a las 1&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ciclo-de-canto-y-piano-recital-suenos-irreales-con-el-baritono-ricardo-lopez-y-el-pianista-andres-sarre/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-09-05T19:04:36+00:00" />

@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Música de Cámara &#8211; Programa a dos pianos con Kristhyan Benítez y Santiago Piñeirúa" />
+<meta property="og:description" content="&nbsp; Interpretan obras de Mozart, Ravel, Milhaud y Moncayo Domingo 09 de octubre / Anfiteatro Simón Bolívar  La Dirección General de Música de la UNAM organiza el recital Programa a dos pianos con Kristhyan Benítez y Santiago Piñeirúa. Se llevará a cabo el domingo 09 de octubre en el Anfi&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-programa-a-dos-pianos-con-kristhyan-benitez-y-santiago-pineirua/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-03T17:02:47+00:00" />

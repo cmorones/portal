@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Recital de Jóvenes Talentos de la Facultad de Música" />
+<meta property="og:description" content="&nbsp; Se presenta el cuarteto de guirarras Kuikani Sala Carlos Chávez / Entrada libre La Dirección General de Música de la UNAM dentro del ciclo de Jóvenes Talentos de la Facultad de Música, organiza el concierto del cuarteto de guitarras Kuikani y el recital de Samuel Cortés, Ulises Juárez &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/recital-de-jovenes-talentos-de-la-facultad-de-musica-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-10-17T16:44:38+00:00" />
