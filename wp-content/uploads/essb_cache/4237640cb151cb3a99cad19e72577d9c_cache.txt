@@ -1,0 +1,8 @@
+<meta property="og:title" content="OFUNAM Celebración por los 25 Años de Relaciones Diplomáticas entre México y Armenia" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/mural/ofunam-celebracion-por-los-25-anos-de-relaciones-diplomaticas-entre-mexico-y-armenia/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-08-04T14:36:21+00:00" />
+<meta property="article:modified_time" content="2017-08-14T13:59:04+00:00" />
+<meta property="og:updated_time" content="2017-08-14T13:59:04+00:00" />

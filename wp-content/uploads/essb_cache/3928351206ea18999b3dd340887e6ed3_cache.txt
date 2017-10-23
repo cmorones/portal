@@ -1,6 +1,1 @@
-<meta property="og:title" content="OFUNAM Fuera de Temporada" />
-<meta property="og:description" content="OFUNAM Fuera de TemporadaPrograma organizado por el Patronato y la Sociedad de Amigos de la OFUNAMQueen Sinfónico Alfredo Ibarra, director huésped; Marc Martel, voz; Coro de la Benemérita Universidad Autónoma de Puebla; Quinteto Britania • Sala Nezahualcóyotl• 12:00 horas• $1000, $700 y $&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/events/ofunam-fuera-de-temporada-11/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2017-06-23T16:57:37+00:00" />
+<meta property="og:type" content="website" />

@@ -1,6 +1,8 @@
-<meta property="og:title" content="OFUNAM Tercera Temporada &#8211; Programa 1" />
-<meta property="og:description" content="OFUNAM Tercera TemporadaPrograma 1 Massimo Quarta, director artístico y violín Concierto para violín no. 5 de Mozart y Sinfonía no. 5 de Shostakovich      • Sala Nezahualcóyotl • 20:00 horas • $240, $160 y $100 • Boletos especiales Segundo piso:  Familiar 4 boletos por $100 y Est&hellip;" />
+<meta property="og:title" content="OFUNAM Tercera Temporada &#8211; Programa 1 &#8211; CANCELADO" />
+<meta property="og:description" content="OFUNAM Tercera Temporada - CANCELADOPrograma 1 Massimo Quarta, director artístico y violín Concierto para violín no. 5 de Mozart y Sinfonía no. 5 de Shostakovich      • Sala Nezahualcóyotl • 20:00 horas • $240, $160 y $100 • Boletos especiales Segundo piso:  Familiar 4 boletos po&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/ofunam-tercera-temporada-programa-1-5/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-06-16T17:38:25+00:00" />
+<meta property="article:modified_time" content="2017-09-21T15:52:14+00:00" />
+<meta property="og:updated_time" content="2017-09-21T15:52:14+00:00" />

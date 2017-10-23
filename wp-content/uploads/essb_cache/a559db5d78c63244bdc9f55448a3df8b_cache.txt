@@ -1,6 +1,8 @@
 <meta property="og:title" content="Concierto Internacional (Holanda)" />
-<meta property="og:description" content="Concierto Internacional (Holanda) Sinfonietta Amsterdam; Coro de Cámara de los Países Bajos: Peter Dijkstra, director coral Bach inmortal de Knut Nystedt, Chacona de la Partita no. 2 de Bach, Da pacem Domine de Pärt, Sinfonía de cámara op. 110a de Shostakovich y Requiem de Fauré Sala Nezahualc&hellip;" />
+<meta property="og:description" content="Concierto Internacional (Holanda) Nederlands Kamerkoor; Amsterdam Sinfonietta; Candida Thompson, directora artística y violín; Jasper Schweppe, barítono; Mónica Monteiro, soprano Bach inmortal de Knut Nystedt, Chacona de la Partita no. 2 de Bach, Da pacem Domine de Pärt, Sinfonía de cámara&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-holanda-2/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-06-16T18:54:52+00:00" />
+<meta property="article:modified_time" content="2017-08-22T16:35:30+00:00" />
+<meta property="og:updated_time" content="2017-08-22T16:35:30+00:00" />

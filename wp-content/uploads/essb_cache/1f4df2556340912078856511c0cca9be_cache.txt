@@ -1,0 +1,6 @@
+<meta property="og:title" content="La Música Vive en la Universidad" />
+<meta property="og:description" content="Música en Territorio PumaLa Música Vive en la Universidad Ensamble Champagne:Laura E. Hernández, salterio mexicano y dulcimer; Xane Plascencia, dulcimer; Omar González, mandolina; Francisco E. Barba, guitarra; José de Jesús Ibáñez, bajo y contrabajo Polka Champagne, Calle 11, Vals suriano, E&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/la-musica-vive-en-la-universidad-8/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-14T13:39:43+00:00" />

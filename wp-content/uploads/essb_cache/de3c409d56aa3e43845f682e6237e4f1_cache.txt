@@ -1,8 +1,1 @@
-<meta property="og:title" content="Jóvenes Talentos &#8211; Concierto del Dúo Espíndola con música de Saint-Saëns y Rachmaninov" />
-<meta property="og:description" content="  Domingo 30 octubre / Anfiteatro Simón Bolívar Entrada libre La Dirección General de Música de la UNAM dentro del ciclo permanente de Jóvenes Talentos organiza el concierto a dos pianos con el Dúo Espíndola. Se llevará a cabo el domingo 30 de octubre en el Anfiteatro Simón Bolívar del An&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/boletin/jovenes-talentos-concierto-del-duo-espindola-con-musica-de-saint-saens-y-rachmaninov/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2016-10-24T14:29:18+00:00" />
-<meta property="article:modified_time" content="2016-10-25T11:31:20+00:00" />
-<meta property="og:updated_time" content="2016-10-25T11:31:20+00:00" />
+<meta property="og:type" content="website" />

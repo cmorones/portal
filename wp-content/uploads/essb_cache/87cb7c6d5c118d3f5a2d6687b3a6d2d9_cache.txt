@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto Internacional (Estados Unidos)" />
+<meta property="og:description" content="Concierto Internacional (Estados Unidos)Curtis on Tour Curtis Ensemble:María Ioudenitch, violín; Andrea Obiso, violín; Roberto Díaz, viola; Michael Casimir, viola; Joshua Halpern, violonchelo; Young In Na, violonchelo Arcana de Kevin Puts, Gran sexteto concertante de Mozart y Sexteto para cuerda&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-estados-unidos-4/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-14T15:41:25+00:00" />
+<meta property="article:modified_time" content="2017-09-14T16:02:45+00:00" />
+<meta property="og:updated_time" content="2017-09-14T16:02:45+00:00" />

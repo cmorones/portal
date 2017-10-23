@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="La OFUNAM interpretará un programa musical con obras de Mozart" />
+<meta property="og:description" content="&nbsp; Sábado 04 y domingo 05 de febrero en la Sala Nezahualcóyotl El programa se realiza en el marco del Festival Internacional de Piano de la UNAM Como parte de los conciertos del Festival Internacional de Piano que comprende del 01 al 26 de febrero, la Orquesta Filarmónica de la UNAM participa&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ofunam-interpretara-un-programa-musical-con-obras-de-mozart/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-01-30T16:48:20+00:00" />

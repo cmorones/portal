@@ -1,0 +1,8 @@
+<meta property="og:title" content="Festival IM·PULSO Música·Escena·Verano·UNAM" />
+<meta property="og:description" content="Festival IM·PULSO Música·Escena·Verano·UNAMEl secreto de SusanaÓpera en un acto de Ermanno Wolf-Ferrari Charla introductoria de Gerardo Kleinburg Sala Miguel Covarrubias 18:00 horas Acceso con el boleto de entrada a la función Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/festival-im%c2%b7pulso-musica%c2%b7escena%c2%b7verano%c2%b7unam-9/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-07-27T13:11:53+00:00" />
+<meta property="article:modified_time" content="2017-07-27T13:14:29+00:00" />
+<meta property="og:updated_time" content="2017-07-27T13:14:29+00:00" />

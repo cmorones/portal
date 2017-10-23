@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM Concierto 4 de Otoño" />
+<meta property="og:description" content="OJUEM Concierto 4 de Otoño*Vértice: Mes de la Experimentación y Vanguardias Artísticas Orquesta Juvenil Universitaria Eduardo Mata de la UNAMGustavo Rivero Weber, director artístico; Amy Yang, piano Suite Cacahuamilpa de Alfonso de Elías, Cantus articus de Einojuhani Rautavaara y Concierto pa&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-4-de-otono-4/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-10-19T12:06:41+00:00" />

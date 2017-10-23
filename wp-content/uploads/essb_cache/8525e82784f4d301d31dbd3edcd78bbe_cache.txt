@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM Concierto 6 de Otoño" />
+<meta property="og:description" content="OJUEM Concierto 6 de Otoño*Orquesta Juvenil Universitaria Eduardo Mata de la UNAM Vladimir Sagaydo, director huésped; Ángel Jiménez, trombón bajo Ferial de Manuel M. Ponce, Concierto para trombón bajo de Chris Brubeck y Sinfonía no. 2 Pequeña Rusia de Chaikovski • Sala Nezahualcóyotl•�&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-6-de-otono-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-10-19T17:59:05+00:00" />

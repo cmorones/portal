@@ -1,0 +1,8 @@
+<meta property="og:title" content="La Música Vive en la Universidad" />
+<meta property="og:description" content="Música en Territorio PumaLa Música Vive en la Universidad Salterio Flor de México:María Teresa Ramos, bajo; Julio Trejo, guitarra; Jesús Trejo, bajo sexto; Guadalupe Trejo, salterio; Óscar Cadena, violín y percusiones La feria de las flores, Tierra Blanca, Adiós mi chaparrita, La feria de Sa&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/la-musica-vive-en-la-universidad-5/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-14T11:29:08+00:00" />
+<meta property="article:modified_time" content="2017-09-14T11:52:23+00:00" />
+<meta property="og:updated_time" content="2017-09-14T11:52:23+00:00" />

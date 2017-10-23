@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto Internacional (Francia)" />
+<meta property="og:description" content="Concierto Internacional (Francia) Surnatural OrchestraWalter Thompson, director artístico • Sala Miguel Covarrubias • 20:30 horas• $150 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-francia-5/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-14T16:32:35+00:00" />
+<meta property="article:modified_time" content="2017-10-05T16:07:03+00:00" />
+<meta property="og:updated_time" content="2017-10-05T16:07:03+00:00" />

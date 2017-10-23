@@ -1,8 +1,8 @@
-<meta property="og:title" content="OJUEM Conciertos de Otoño 2017" />
+<meta property="og:title" content="OJUEM Conciertos de Otoño 2017. Cartelera" />
 <meta property="og:description" content="&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/mural/ojuem-conciertos-de-otono-2017/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-06-26T14:36:25+00:00" />
-<meta property="article:modified_time" content="2017-06-29T16:33:37+00:00" />
-<meta property="og:updated_time" content="2017-06-29T16:33:37+00:00" />
+<meta property="article:modified_time" content="2017-10-06T13:49:22+00:00" />
+<meta property="og:updated_time" content="2017-10-06T13:49:22+00:00" />

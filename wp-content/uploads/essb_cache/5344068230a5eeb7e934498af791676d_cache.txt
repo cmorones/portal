@@ -1,0 +1,6 @@
+<meta property="og:title" content="La Música Vive en la Universidad" />
+<meta property="og:description" content="Música en Territorio PumaLa Música Vive en la Universidad Pulque para dos:Margie Espinales, salterio; René Báez, guitarra Chapultepec de Higinio Ruvalcaba, A la orilla de un palmar y Estrellita de Ponce, Monterrey de Antonio Tanguma, Nunca de Guty Cárdenas y Serenata de Schubert, entre otras �&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/la-musica-vive-en-la-universidad-9/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-14T13:56:22+00:00" />

@@ -1,0 +1,8 @@
+<meta property="og:title" content="Recital de guitarra" />
+<meta property="og:description" content="Música de CámaraMúsica desde las esferas del universo Samir Belkacemi, guitarra Sinfonía enigmática, Desierto introspectivo, Laberinto en el silencio y Luna gitana de Samir Belkacemi, entre otras • Anfiteatro Simón Bolívar • 12:00 horas• $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-guitarra-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-14T11:41:03+00:00" />
+<meta property="article:modified_time" content="2017-10-03T14:45:40+00:00" />
+<meta property="og:updated_time" content="2017-10-03T14:45:40+00:00" />

@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto Internacional (Canadá)" />
+<meta property="og:description" content="Concierto Internacional (Canadá) Cuarteto de Cuerdas Penderecki:Jeremy Bell, violín; Jerzy Kaplanek, violín; Christine Vlajk, viola; Katie Schlaikjer, violonchelo Cuarteto para cuerdas y medios electrónicos Once Upon a Time de Peter Hatch, Cuarteto para cuerdas no. 5 Rosalind de Raymond Murray, &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-canada/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-10-19T14:53:51+00:00" />
+<meta property="article:modified_time" content="2017-10-19T15:02:19+00:00" />
+<meta property="og:updated_time" content="2017-10-19T15:02:19+00:00" />

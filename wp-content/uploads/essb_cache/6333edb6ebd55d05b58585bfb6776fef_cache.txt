@@ -1,0 +1,6 @@
+<meta property="og:title" content="Festival IM•PULSO &#8211; Ballet Las bodas de Stravinsky" />
+<meta property="og:description" content="Festival IM•PULSO: Ballet Las bodas de Stravinski y Sum Vermis de Montsalvatge Participantes: Christian Gohmer, director musical; Óscar Ruvalcaba, coreógrafo; Graciela Morales, soprano; Isabel Stüber, mezzosoprano; Andrés Carrillo, tenor; Rodrigo Urrutia, bajo-barítono; Edith Ruiz, Abd El Had&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/festival-im%e2%80%a2pulso-ballet-las-bodas-de-stravinsky-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-08-11T10:39:13+00:00" />

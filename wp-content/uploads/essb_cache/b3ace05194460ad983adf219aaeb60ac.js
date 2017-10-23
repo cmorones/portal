@@ -9,7 +9,7 @@
 	'action': 'essb_self_postcount',
 	'post_id': post_id,
 	'service': service,
-	'nonce': 'f75d968538'
+	'nonce': '9e9b72e4a9'
 	}, function (data) { if (data) {
 		//alert(data);
 	}},'json');});

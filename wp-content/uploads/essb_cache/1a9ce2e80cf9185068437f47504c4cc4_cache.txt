@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto Internacional (Alemania)" />
+<meta property="og:description" content="Concierto Internacional (Alemania)Concerto Köln Evgeny Sviridov, director y concertino Conciertos de Brandenburgo no. 4 y no. 5 de Bach, Concierto grosso op. 1 no. 12 de Locatelli, Concierto para violín RV 235 de Vivaldi, Concierto op. 5 no. 6 de Dall’Abaco y Sinfonía en la mayor de Sammartini &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-alemania-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-14T16:27:03+00:00" />

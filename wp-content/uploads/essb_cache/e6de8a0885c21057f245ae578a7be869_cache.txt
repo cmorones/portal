@@ -1,0 +1,8 @@
+<meta property="og:title" content="Festival IM·PULSO Música·Escena·Verano·UNAM" />
+<meta property="og:description" content="Festival IM·PULSO Música·Escena·Verano·UNAM Ballet Las bodas de Stravinski  Charla introductoria de Óscar Ruvalcaba Sala Nezahualcóyotl 16:00 horas Acceso con el boleto de entrada a la función Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/festival-im%c2%b7pulso-musica%c2%b7escena%c2%b7verano%c2%b7unam-6/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-07-26T17:24:12+00:00" />
+<meta property="article:modified_time" content="2017-08-11T11:58:25+00:00" />
+<meta property="og:updated_time" content="2017-08-11T11:58:25+00:00" />

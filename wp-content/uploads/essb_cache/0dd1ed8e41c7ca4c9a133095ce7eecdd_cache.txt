@@ -1,8 +1,8 @@
-<meta property="og:title" content="OFUNAM Tercera Temporada &#8211; Programa 10" />
-<meta property="og:description" content="OFUNAM Tercera TemporadaPrograma 10 Christian Gohmer, director huésped; Mauricio Náder, piano Danzón no. 2 de Arturo Márquez, Concierto para piano de Samuel Zyman y Travesías urbanas de María Granillo • Sala Nezahualcóyotl • 12:00 horas • $240, $160 y $100 • Boletos especiales Segund&hellip;" />
+<meta property="og:title" content="OFUNAM Tercera Temporada &#8211; Programa 9" />
+<meta property="og:description" content="OFUNAM Tercera TemporadaPrograma 9 Christian Gohmer, director huésped; Mauricio Náder, piano; María Caballero, soprano Danzón no. 2 de Arturo Márquez, Concierto para piano de Samuel Zyman, Bachianas brasileñas no. 5 de Villa-Lobos y Travesías urbanas de María Granillo • Sala Ne&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/ofunam-tercera-temporada-programa-10-3/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-06-23T18:24:11+00:00" />
-<meta property="article:modified_time" content="2017-06-23T18:24:27+00:00" />
-<meta property="og:updated_time" content="2017-06-23T18:24:27+00:00" />
+<meta property="article:modified_time" content="2017-08-23T15:22:13+00:00" />
+<meta property="og:updated_time" content="2017-08-23T15:22:13+00:00" />

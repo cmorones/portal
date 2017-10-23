@@ -1,0 +1,8 @@
+<meta property="og:title" content="Música Contemporánea en el MUAC" />
+<meta property="og:description" content="Música Contemporánea en el MUAC Ensamble Vertebræ:Olivia Abreu, flauta; Anna Paolina Hasslacher, piano; Camille Emaille, percusiones Estrenos de obras sin título compuestas en 2017 de Juan José Bárcenas, David Hernández, Rodrigo Valdez, José Luis Hurtado y Víctor Ibarra • Auditorio MUAC �&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/musica-contemporanea-en-el-muac-16/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-14T14:42:46+00:00" />
+<meta property="article:modified_time" content="2017-09-14T16:02:25+00:00" />
+<meta property="og:updated_time" content="2017-09-14T16:02:25+00:00" />

@@ -1,8 +1,1 @@
-<meta property="og:title" content="La OJUEM finaliza los conciertos de Otoño con un Programa Navideño" />
-<meta property="og:description" content="&nbsp; Se presentan con la guía de su director artístico Gustavo Rivero Weber Domingo 18 de diciembre de 2016 / Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata de la UNAM llevará a cabo un Concierto Navideño el domingo 18 de diciembre en la Sala Nezahualcóyotl del Centro Cul&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/boletin/la-ojuem-finaliza-los-conciertos-de-otono-con-un-programa-navideno/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2016-12-16T11:17:02+00:00" />
-<meta property="article:modified_time" content="2016-12-16T11:25:29+00:00" />
-<meta property="og:updated_time" content="2016-12-16T11:25:29+00:00" />
+<meta property="og:type" content="website" />

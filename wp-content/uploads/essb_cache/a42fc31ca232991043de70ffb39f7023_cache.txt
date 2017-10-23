@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Academia de Música Antigua de la UNAM AMA-UNAM" />
+<meta property="og:description" content="Academia de Música Antigua de la UNAM AMA-UNAMHändel y Telemann, más allá del gusto por las plantas Raúl Moncada, clavecín y director ; Vincent Touzet, flauta Concerto grosso en la menor op. 6 no. 4, Suite de la música acuática y Concerto de Händel, Suite La Changeante y Concerto de Tele&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/academia-de-musica-antigua-de-la-unam-ama-unam/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-06-16T19:16:59+00:00" />
+<meta property="article:modified_time" content="2017-09-26T19:19:41+00:00" />
+<meta property="og:updated_time" content="2017-09-26T19:19:41+00:00" />

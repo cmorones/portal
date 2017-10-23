@@ -1,1 +1,8 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Ciclo Dúos de Piano" />
+<meta property="og:description" content="Música de CámaraCiclo Dúos de Piano Dúo Herrera:Salomé Herrera, piano; Claudio Herrera, piano Tres Danzas húngaras y Variaciones sobre un tema de Haydn de Brahms, Fantasía para piano a cuatro manos D 940 de Schubert y Sarabanda sobre un tema de Bach de Carl Reinecke Anfiteatro Simón Bolívar&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ciclo-duos-de-piano-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-06-16T18:33:12+00:00" />
+<meta property="article:modified_time" content="2017-08-02T12:09:48+00:00" />
+<meta property="og:updated_time" content="2017-08-02T12:09:48+00:00" />

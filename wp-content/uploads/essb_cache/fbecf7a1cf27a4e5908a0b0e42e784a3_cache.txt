@@ -1,0 +1,8 @@
+<meta property="og:title" content="Festival IM·PULSO Música·Escena·Verano·UNAM" />
+<meta property="og:description" content="Festival IM·PULSO Música·Escena·Verano·UNAMDe amor y guerra Juan C. Zamudio, director musical y primer violín; Benjamín Cann, director de escena; ensamble Los Temperamentos (Alemania); Evelyn Johnson, soprano; Fernanda Sánchez, soprano; Swantje Tams-Freier, soprano; Rogelio Marín, tenor&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/festival-im%c2%b7pulso-musica%c2%b7escena%c2%b7verano%c2%b7unam-10/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-07-27T13:26:35+00:00" />
+<meta property="article:modified_time" content="2017-08-11T12:45:16+00:00" />
+<meta property="og:updated_time" content="2017-08-11T12:45:16+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="Filuni &#8211; Concierto Staccato" />
+<meta property="og:description" content="FILUNI Feria Internacional del Libro Universitario UNAM. Concierto del Coro Universitario Estudiantil Staccato. En las dos orillas: Encuentros de poesía y música Participantes: Coro Universitario Estudiantil Staccato: Marco A. Ugalde y Bernardo García Bernalt, directores Programa: Concierto de po&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/filuni-concierto-staccato/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-08-22T14:28:11+00:00" />

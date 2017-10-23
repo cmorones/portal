@@ -1,6 +1,8 @@
-<meta property="og:title" content="Música Contemporánea en el MUAC" />
-<meta property="og:description" content="Música Contemporánea en el MUAC Ensamble Cello Alterno:Iracema de Andrade, violonchelo; Edgardo Espinosa, violonchelo; Edith Ruiz, piano Trío de Gonzalo Macías, Teueikan de Marie-Pierre Brasset, Juguetes tristes* de Lorenzo Medina, Catarsis de Charles Halka, Imágenes oníricas* de María Granil&hellip;" />
+<meta property="og:title" content="Música Contemporánea en el MUAC &#8211; CANCELADO" />
+<meta property="og:description" content="Música Contemporánea en el MUAC - CANCELADO Ensamble Cello Alterno:Iracema de Andrade, violonchelo; Edgardo Espinosa, violonchelo; Edith Ruiz, piano Trío de Gonzalo Macías, Teueikan de Marie-Pierre Brasset, Juguetes tristes* de Lorenzo Medina, Catarsis de Charles Halka, Imágenes oníricas* de M&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/musica-contemporanea-en-el-muac-15/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-06-16T18:47:55+00:00" />
+<meta property="article:modified_time" content="2017-09-01T13:28:28+00:00" />
+<meta property="og:updated_time" content="2017-09-01T13:28:28+00:00" />

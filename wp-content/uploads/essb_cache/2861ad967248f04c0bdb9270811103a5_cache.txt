@@ -1,0 +1,8 @@
+<meta property="og:title" content="Academia de Música Antigua de la UNAM AMA-UNAM Programa 4" />
+<meta property="og:description" content="AMA-UNAM Programa 4Las tres etapas del BarrocoAcademia de Música Antigua de la UNAM Horacio Franco, director y flautas de pico Sinfonía La Bergamasca y Sinfonía La Padovana de Ludovico Grossi da Viadana, Sonata para cuatro violines y continuo op. 10 no. 18 de Giovanni Legrenzi, Concerto grosso op&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/academia-de-musica-antigua-de-la-unam-ama-unam-programa-4/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-13T12:02:34+00:00" />
+<meta property="article:modified_time" content="2017-09-13T12:02:43+00:00" />
+<meta property="og:updated_time" content="2017-09-13T12:02:43+00:00" />

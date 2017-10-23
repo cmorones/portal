@@ -1,6 +1,1 @@
-<meta property="og:title" content="Massimo Quarta dirige a la OFUNAM con obras de Ravel, Chaikosvki y del mexicano Francisco Cortés" />
-<meta property="og:description" content="&nbsp; El flautista Miguel Ángel Villanueva es solista Conciertos sábado 13 de mayo 20 horas y domingo 14 de mayo 12 horas Ensayo abierto sábado 13 de mayo a las 10 horas en la Sala Nezahualcóyotl &nbsp; La Orquesta Filarmónica de la UNAM (OFUNAM) y su director artístico Massimo Quarta interpr&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/boletin/massimo-quarta-dirige-a-la-ofunam-con-obras-de-ravel-chaikosvki-y-del-mexicano-francisco-cortes/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2017-05-08T14:46:48+00:00" />
+<meta property="og:type" content="website" />

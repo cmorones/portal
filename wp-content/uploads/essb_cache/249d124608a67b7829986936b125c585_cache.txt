@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música de Cámara &#8211; Tercer Festival Internacional de Piccolo" />
+<meta property="og:description" content="Música de Cámara: Concierto del Cuarteto Redes en el marco del Tercer Festival Internacional de Piccolo Participantes: Ekaterine Martínez Bourguet, violín; Teodoro Gálvez, violín; Érika Ramírez, viola; Carlos Castañeda, violonchelo. Invitada: Nadia Guenet, piccolo Programa: Cuarteto para cu&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-tercer-festival-internacional-de-piccolo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-08-29T11:07:05+00:00" />

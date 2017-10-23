@@ -1,8 +1,8 @@
-<meta property="og:title" content="Ciclo Dúos de Piano" />
-<meta property="og:description" content="Música de CámaraCiclo Dúos de Piano Argentina Durán, piano; Rafael O. Salgado, piano Suite para dos pianos de Richard Bennett, Huapango de Moncayo, Danzón no. 2 de Márquez, Concertino para dos pianos de Shostakovich, La valse de Ravel y Variaciones sobre un tema de Paganini de Lutoslawski Anfi&hellip;" />
+<meta property="og:title" content="Ciclo Dúos de Piano -CANCELADO" />
+<meta property="og:description" content="Música de Cámara - CANCELADOCiclo Dúos de Piano Argentina Durán, piano; Rafael O. Salgado, piano Suite para dos pianos de Richard Bennett, Huapango de Moncayo, Danzón no. 2 de Márquez, Concertino para dos pianos de Shostakovich, La valse de Ravel y Variaciones sobre un tema de Paganini de Luto&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/ciclo-duos-de-piano-7/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-06-16T18:37:19+00:00" />
-<meta property="article:modified_time" content="2017-06-27T13:25:51+00:00" />
-<meta property="og:updated_time" content="2017-06-27T13:25:51+00:00" />
+<meta property="article:modified_time" content="2017-09-21T15:54:18+00:00" />
+<meta property="og:updated_time" content="2017-09-21T15:54:18+00:00" />

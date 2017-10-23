@@ -1,6 +1,8 @@
-<meta property="og:title" content="Ciclo Dúos de Piano" />
-<meta property="og:description" content="Música de CámaraCiclo Dúos de Piano Ana María Tradatti, piano; Radek Materka, piano Scaramouche de Milhaud, Sonata de Poulenc, selecciones de La historia del tango de Piazzolla, Variaciones sobre un tema de Paganini de Lutoslawski, Bailecito, Llanura y Gato de Guastavino Anfiteatro Simón Bolív&hellip;" />
+<meta property="og:title" content="Ciclo Dúos de Piano &#8211; CANCELADO" />
+<meta property="og:description" content="Música de Cámara - CANCELADOCiclo Dúos de Piano Ana María Tradatti, piano; Radek Materka, piano Scaramouche de Milhaud, Sonata de Poulenc, selecciones de La historia del tango de Piazzolla, Variaciones sobre un tema de Paganini de Lutoslawski, Bailecito, Llanura y Gato de Guastavino Anfiteatro S&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/ciclo-duos-de-piano-2/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-06-16T18:20:02+00:00" />
+<meta property="article:modified_time" content="2017-08-09T12:54:26+00:00" />
+<meta property="og:updated_time" content="2017-08-09T12:54:26+00:00" />

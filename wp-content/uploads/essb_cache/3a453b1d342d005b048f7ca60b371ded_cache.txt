@@ -1,0 +1,8 @@
+<meta property="og:title" content="OFUNAM Ensayo abierto" />
+<meta property="og:description" content="OFUNAM Tercera TemporadaEnsayo abierto Selecciones del Programa 6 • Sala Nezahualcóyotl• 10:00 horas• Entrada libre (cupo limitado al aforo del recinto) Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ofunam-ensayo-abierto-6/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-06-23T17:00:03+00:00" />
+<meta property="article:modified_time" content="2017-08-23T15:15:48+00:00" />
+<meta property="og:updated_time" content="2017-08-23T15:15:48+00:00" />
