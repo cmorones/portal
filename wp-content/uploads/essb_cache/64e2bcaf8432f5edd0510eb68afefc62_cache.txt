@@ -1,0 +1,8 @@
+<meta property="og:title" content="Música Contemporánea: Ensamble Vertebræ" />
+<meta property="og:description" content="Música Contemporánea: Ensamble Vertebræ Integrantes: Olivia Abreu, flauta; Anna Paolina Hasslacher, piano; Camille Emaille, percusiones Programa: Estrenos de obras sin título compuestas en 2017 por Juan José Bárcenas, David Hernández, Rodrigo Valdez, José Luis Hurtado y Víctor Ibarra Lugar:&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-contemporanea-ensamble-vertebrae/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-10-23T19:41:21+00:00" />
+<meta property="article:modified_time" content="2017-10-27T19:13:35+00:00" />
+<meta property="og:updated_time" content="2017-10-27T19:13:35+00:00" />

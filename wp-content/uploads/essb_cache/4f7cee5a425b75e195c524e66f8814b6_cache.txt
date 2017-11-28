@@ -1,6 +1,1 @@
-<meta property="og:title" content="El músico alemán Hansjörg Schellenberger dirige a la Orquesta Juvenil Universitaria Eduardo Mata (OJUEM)" />
-<meta property="og:description" content="&nbsp; Después de su participación con la OFUNAM el pasado fin de semana, Schellenberger toma la batuta de la Orquesta Juvenil Universitaria Eduardo Mata como director huésped el 12 de febrero El primer acercamiento musical de Hansjörg Schellenberger fue a través de la flauta de pico y la músi&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/boletin/el-musico-aleman-hansjorg-schellenberger-dirige-a-la-orquesta-juvenil-universitaria-eduardo-mata-ojuem/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2017-02-08T12:21:29+00:00" />
+<meta property="og:type" content="website" />

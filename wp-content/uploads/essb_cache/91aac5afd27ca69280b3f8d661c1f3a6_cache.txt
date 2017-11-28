@@ -1,8 +1,8 @@
 <meta property="og:title" content="OFUNAM Tercera Temporada &#8211; Programa 8" />
-<meta property="og:description" content="OFUNAM Tercera TemporadaPrograma 8* Ronald Zollman, director huésped; Leonard Elschebroich, violonchelo Obertura de Colas Breugnon y Concierto para violonchelo de Kabalevsky, Sinfonía no. 12 El año 1917 de Shostakovich • Sala Nezahualcóyotl • 20:00 horas • $240, $160 y $100 • Boletos esp&hellip;" />
+<meta property="og:description" content="OFUNAM Tercera TemporadaPrograma 8* Ronald Zollman, director huésped; Leonard Elschenbroich, violonchelo Obertura de Colas Breugnon y Concierto para violonchelo de Kabalevsky, Sinfonía no. 12 El año 1917 de Shostakovich • Sala Nezahualcóyotl • 20:00 horas • $240, $160 y $100 • Boletos es&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/ofunam-tercera-temporada-programa-9/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-06-23T18:20:32+00:00" />
-<meta property="article:modified_time" content="2017-10-19T17:46:42+00:00" />
-<meta property="og:updated_time" content="2017-10-19T17:46:42+00:00" />
+<meta property="article:modified_time" content="2017-11-27T13:50:36+00:00" />
+<meta property="og:updated_time" content="2017-11-27T13:50:36+00:00" />

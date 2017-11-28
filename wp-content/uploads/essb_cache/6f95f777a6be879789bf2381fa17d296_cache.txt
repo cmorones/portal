@@ -1,0 +1,8 @@
+<meta property="og:title" content="Música de Cámara: Concierto Jóvenes Talentos de la Facultad de Música" />
+<meta property="og:description" content="Música de Cámara: Concierto Jóvenes Talentos de la Facultad de Música Solistas: Primera parte Mariana Olaiz, fagot y David Pérez, piano. Segunda parte María E. Ramos, violín y Guillermo Cuéllar, piano Programa: Primera parte Sonata para fagot y piano de Saint-Saëns y Romance para fagot y pi&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-concierto-jovenes-talentos-de-la-facultad-de-musica-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-10-23T19:40:08+00:00" />
+<meta property="article:modified_time" content="2017-10-27T19:10:24+00:00" />
+<meta property="og:updated_time" content="2017-10-27T19:10:24+00:00" />

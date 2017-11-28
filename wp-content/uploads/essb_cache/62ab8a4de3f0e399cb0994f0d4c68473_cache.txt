@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música Contemporánea: Vértice: Mes de la Experimentación y Vanguardias Artísticas. Ensamble Motion Tracking" />
+<meta property="og:description" content="Música Contemporánea: Vértice: Mes de la Experimentación y Vanguardias Artísticas. Ensamble Motion Tracking Participantes: Ricardo Cortés, director, programación y electrónica; Denise de Ramery, voz; Roberto Rivadeneyra, violín; Carlos Gómez, piano; Magdalena Leite, coreografía y ejecuci�&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-contemporanea-vertice-mes-de-la-experimentacion-y-vanguardias-artisticas-ensamble-motion-tracking/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-11-21T11:25:29+00:00" />

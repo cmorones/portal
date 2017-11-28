@@ -1,0 +1,6 @@
+<meta property="og:title" content="Grupo Lírico Morelense" />
+<meta property="og:description" content="Música de Cámara Grupo Lírico MorelenseNatalia Cook, soprano; Joycee Díaz, soprano; Gabriela Calvario, soprano; Liliana Smith, soprano; Karen Alba, soprano; Mara Stgemann, soprano; Abigail Martínez, soprano; Mario Ponce, tenor; Felipe Aguilar, tenor; Alejandro Vigo, piano Arias y Lieder de Hän&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/grupo-lirico-morelense/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-10-19T13:37:36+00:00" />

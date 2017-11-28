@@ -1,6 +1,8 @@
 <meta property="og:title" content="OJUEM Concierto Navideño" />
-<meta property="og:description" content="OJUEM Fuera de TemporadaConcierto Navideño Orquesta Juvenil Universitaria Eduardo Mata de la UNAM Albert E. Moehring, director huésped • Sala Nezahualcóyotl• 18:00 horas• $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:description" content="OJUEM Fuera de TemporadaConcierto Navideño Orquesta Juvenil Universitaria Eduardo Mata de la UNAM Gustavo Rivero Weber, director artístico; Coro Filarmónico Universitario; Niños y Jóvenes Cantores de la Facultad de Música; Alan Pingarrón, tenor; Rogelio Durán, trompeta Preludio del Te Deum d&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-navideno-2/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2017-10-19T18:11:13+00:00" />
+<meta property="article:modified_time" content="2017-11-13T14:40:37+00:00" />
+<meta property="og:updated_time" content="2017-11-13T14:40:37+00:00" />

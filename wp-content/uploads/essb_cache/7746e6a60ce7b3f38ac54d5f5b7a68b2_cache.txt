@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="La OJUEM interpreta Carmina Burana de Carl Orff" />
+<meta property="og:description" content="&nbsp; En el marco del 5º Festival ¡en contacto contigo! Sábado 12 y domingo 13 de noviembre / Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata de la UNAM en el marco del 5º Festival ¡en contacto contigo! llevará a cabo un par de conciertos el próximo sábado 12 y domingo 1&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ojuem-interpreta-carmina-burana-de-carl-orff/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-11-07T18:34:01+00:00" />

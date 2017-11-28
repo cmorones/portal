@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto: Orquesta Juvenil Universitaria Eduardo Mata OJUEM. Concierto 5 de Otoño" />
+<meta property="og:description" content="Concierto: Orquesta Juvenil Universitaria Eduardo Mata OJUEM. Concierto 5 de Otoño Director: Gustavo Rivero Weber, director artístico Programa: Preludio a la siesta de un fauno de Debussy y Sinfonía no. 2 de Rachmaninov Fechas: Domingo 26 de noviembre de 2017 • 18 horas Charla introductoria: Do&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-orquesta-juvenil-universitaria-eduardo-mata-ojuem-concierto-5-de-otono/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-11-21T11:29:10+00:00" />

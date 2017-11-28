@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música y Universidad: celebración por el XV Aniversario del Seminario de Música en la Nueva España y el México Independiente y del Sistema Musicat" />
+<meta property="og:description" content="10 Años Campus Central de Ciudad Universitaria de la UNAM Patrimonio MundialMúsica y Universidad: celebración por el XV Aniversario del Seminario de Música en la Nueva España y el México Independiente y del Sistema Musicat Del 21 al 24 de noviembre en diversos recintos Las actividades incluyen&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-y-universidad-celebracion-por-el-xv-aniversario-del-seminario-de-musica-en-la-nueva-espana-y-el-mexico-independiente-y-del-sistema-musicat/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-11-16T11:11:17+00:00" />

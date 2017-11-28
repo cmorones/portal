@@ -1,8 +1,8 @@
 <meta property="og:title" content="Descarga la programación" />
-<meta property="og:description" content="Cartelera descargable octubre 2017 OFUNAM Tercera Temporada 2017. Cartelera OFUNAM Segunda Temporada 2017. Cartelera OFUNAM Primera Temporada 2017. Cartelera OFUNAM Tercera Temporada 2016. Cartelera OFUNAM Segunda Temporada 2016. Cartelera OFUNAM Primera Temporada 2016. Cartelera&hellip;" />
+<meta property="og:description" content="Cartelera descargable noviembre 2017 OFUNAM Tercera Temporada 2017. Cartelera OFUNAM Segunda Temporada 2017. Cartelera OFUNAM Primera Temporada 2017. Cartelera OFUNAM Tercera Temporada 2016. Cartelera OFUNAM Segunda Temporada 2016. Cartelera OFUNAM Primera Temporada 2016. Cartelera&hellip;" />
 <meta property="og:url" content="http://musica.unam.mx/programacion/descarga-la-programacion/" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Musica UNAM" />
 <meta property="article:published_time" content="2015-01-28T16:02:14+00:00" />
-<meta property="article:modified_time" content="2017-10-19T14:06:16+00:00" />
-<meta property="og:updated_time" content="2017-10-19T14:06:16+00:00" />
+<meta property="article:modified_time" content="2017-11-27T14:40:15+00:00" />
+<meta property="og:updated_time" content="2017-11-27T14:40:15+00:00" />

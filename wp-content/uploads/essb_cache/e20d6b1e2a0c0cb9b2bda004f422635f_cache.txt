@@ -1,1 +1,6 @@
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Festival IM•PULSO &#8211; De amor y guerra" />
+<meta property="og:description" content="Festival IM•PULSO: De amor y guerra. Participantes: Juan C. Zamudio, director musical y primer violín; Benjamín Cann, director de escena; Gerardo Kleinburg, charla previa; ensamble Los Temperamentos (Alemania); Evelyn Johnson, soprano; Fernanda Sánchez, soprano; Swantje Tams, canto; Rogelio Mar&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/festival-im%e2%80%a2pulso-de-amor-y-guerra/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-08-11T10:40:40+00:00" />

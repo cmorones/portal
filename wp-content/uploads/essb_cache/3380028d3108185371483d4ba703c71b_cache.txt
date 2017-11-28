@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música de Cámara &#8211; Presentación de disco Voces de Iberoamérica" />
+<meta property="og:description" content="Música de Cámara: Presentación del disco Voces de Iberoamérica del Cuarteto Mexicano de Guitarras Integrantes: Víctor García, Jesús Martínez, Eduardo Paniagua y Francisco Villegas, director artístico Programa: Suite antigua de Ian Krouse, El amor brujo de Falla, Otoño porteño de Piazzolla&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-presentacion-de-disco-voces-de-iberoamerica/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-09-04T20:36:38+00:00" />

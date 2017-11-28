@@ -1,0 +1,6 @@
+<meta property="og:title" content="Música Contemporánea: XXXIX Foro Internacional de Música Nueva Manuel Enríquez" />
+<meta property="og:description" content="Música Contemporánea: XXXIX Foro Internacional de Música Nueva Manuel Enríquez Cuarteto de Percusiones Fourtissimo Integrantes: David Moreno, Marco Mora, Bryan Flores y Eduardo Torres Invitada: Ana Gabriela Fernández, piano Programa: Hematofonía de Héctor Infanzón, La arena de la fantasía* &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-contemporanea-xxxix-foro-internacional-de-musica-nueva-manuel-enriquez/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2017-10-10T16:27:11+00:00" />

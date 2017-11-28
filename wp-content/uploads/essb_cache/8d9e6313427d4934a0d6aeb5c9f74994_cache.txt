@@ -1,6 +1,1 @@
-<meta property="og:title" content="Jazz, Tangos y Ritmos Latinoamericanos &#8211; Concierto de Cris Lobo Band" />
-<meta property="og:description" content="&nbsp; Domingo 22 de mayo / 12:00 horas Anfiteatro Simón Bolívar La Dirección General de Música de la UNAM dentro del ciclo Jazz, Tangos y Ritmos Latinoamericanos, organiza el concierto de Cris Lobo Band, se llevará a cabo el domingo 22 de mayo en el Anfiteatro Simón Bolívar del Antiguo Coleg&hellip;" />
-<meta property="og:url" content="http://musica.unam.mx/boletin/jazz-tangos-y-ritmos-latinoamericanos-concierto-de-cris-lobo-band/" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Musica UNAM" />
-<meta property="article:published_time" content="2016-05-13T17:43:05+00:00" />
+<meta property="og:type" content="website" />
